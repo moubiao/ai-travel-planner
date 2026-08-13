@@ -1,0 +1,589 @@
+{
+  "city": "lijiang",
+  "city_name": "丽江",
+  "attractions": [
+    {
+      "id": "lj_att_001",
+      "name": "丽江古城",
+      "category": "人文古迹",
+      "location": "古城区大研街道",
+      "coordinates": [
+        100.233,
+        26.872
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "世界文化遗产",
+        "纳西族",
+        "小桥流水"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "世界文化遗产，纳西族传统建筑，四方街、木府、大水车等标志性景点，夜晚酒吧街热闹非凡。",
+      "transport": "公交4路、18路至古城口站，或打车",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_002",
+      "name": "玉龙雪山",
+      "category": "自然风光",
+      "location": "玉龙纳西族自治县",
+      "coordinates": [
+        100.258558,
+        27.098052
+      ],
+      "open_time": "07:00-18:00",
+      "ticket": 100,
+      "recommend_season": "冬季、春季",
+      "visit_duration": "半天",
+      "tags": [
+        "雪山",
+        "冰川公园",
+        "蓝月谷"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "纳西族神山，主峰扇子陡，可乘大索道至冰川公园，山脚蓝月谷湖水湛蓝，景色壮丽。",
+      "transport": "公交7路至雪山站，或包车",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_003",
+      "name": "束河古镇",
+      "category": "人文古迹",
+      "location": "古城区束河街道",
+      "coordinates": [
+        100.205679,
+        26.9196
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "茶马古道",
+        "宁静",
+        "青龙桥"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "茶马古道重镇，比大研古城更宁静，青龙桥、四方听音广场，适合悠闲漫步。",
+      "transport": "公交6路至束河古镇站，或骑行",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_004",
+      "name": "白沙古镇",
+      "category": "人文古迹",
+      "location": "玉龙纳西族自治县白沙镇",
+      "coordinates": [
+        100.216933,
+        26.953303
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "2小时",
+      "tags": [
+        "纳西古都",
+        "壁画",
+        "原生态"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "纳西族古都，保留原生态风貌，白沙壁画精美，可远眺玉龙雪山。",
+      "transport": "公交6路至白沙乡政府站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_005",
+      "name": "拉市海湿地公园",
+      "category": "自然风光",
+      "location": "玉龙纳西族自治县拉市镇",
+      "coordinates": [
+        100.130743,
+        26.859422
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 30,
+      "recommend_season": "冬季",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "湿地",
+        "候鸟",
+        "骑马"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "高原湿地，冬季候鸟成群，可骑马、划船，体验茶马古道。",
+      "transport": "公交31路至拉市海，或包车",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_006",
+      "name": "泸沽湖",
+      "category": "自然风光",
+      "location": "宁蒗彝族自治县泸沽湖镇",
+      "coordinates": [
+        100.809191,
+        27.707434
+      ],
+      "open_time": "全天开放",
+      "ticket": 70,
+      "recommend_season": "夏季、秋季",
+      "visit_duration": "1-2天",
+      "tags": [
+        "高原湖泊",
+        "摩梭文化",
+        "走婚桥"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "高原明珠，湖水清澈，摩梭人母系文化，环湖骑行，体验走婚桥。",
+      "transport": "丽江客运站班车至泸沽湖",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_007",
+      "name": "木府",
+      "category": "人文古迹",
+      "location": "古城区大研街道光义街",
+      "coordinates": [
+        100.231,
+        26.869
+      ],
+      "open_time": "08:30-17:30",
+      "ticket": 40,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "土司府",
+        "建筑",
+        "历史"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "明代纳西族土司府邸，建筑宏伟，有“北有故宫，南有木府”之称。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_008",
+      "name": "黑龙潭公园",
+      "category": "休闲公园",
+      "location": "古城区民主路",
+      "coordinates": [
+        100.239852,
+        26.888448
+      ],
+      "open_time": "07:00-19:00",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "龙潭倒影",
+        "雪山",
+        "园林"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "公园内有玉泉，可拍摄玉龙雪山倒影，古建筑五凤楼，休闲好去处。",
+      "transport": "公交3路至黑龙潭站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_009",
+      "name": "丽江千古情景区",
+      "category": "主题乐园",
+      "location": "玉龙纳西族自治县玉龙雪山脚下",
+      "coordinates": [
+        100.218666,
+        26.827705
+      ],
+      "open_time": "14:00-21:00",
+      "ticket": 280,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "演艺",
+        "文化",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "大型歌舞《丽江千古情》演出，展现纳西文化，园区有茶马古街、那措海等。",
+      "transport": "公交23路至千古情站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_010",
+      "name": "东巴谷",
+      "category": "自然风光",
+      "location": "玉龙纳西族自治县白沙镇",
+      "coordinates": [
+        100.261078,
+        27.006035
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 50,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "峡谷",
+        "东巴文化",
+        "徒步"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "自然峡谷，东巴文化展示，可体验东巴纸制作，徒步栈道。",
+      "transport": "公交6路至东巴谷站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_011",
+      "name": "玉水寨",
+      "category": "自然风光",
+      "location": "玉龙纳西族自治县白沙镇",
+      "coordinates": [
+        100.201622,
+        26.999757
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 50,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "2小时",
+      "tags": [
+        "神泉",
+        "东巴教",
+        "自然"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "纳西族东巴教圣地，神泉清澈，有东巴文物展，山水相映。",
+      "transport": "公交6路至玉水寨站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_012",
+      "name": "蓝月谷",
+      "category": "自然风光",
+      "location": "玉龙纳西族自治县玉龙雪山景区内",
+      "coordinates": [
+        100.245886,
+        27.124436
+      ],
+      "open_time": "07:00-18:00",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "蓝色湖水",
+        "雪山",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "玉龙雪山脚下的蓝色湖泊，因富含矿物质呈蓝色，如仙境。",
+      "transport": "玉龙雪山景区内电瓶车",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_013",
+      "name": "丽江古城博物院（木府）",
+      "category": "博物馆",
+      "location": "古城区大研街道光义街",
+      "coordinates": [
+        100.231,
+        26.869
+      ],
+      "open_time": "08:30-17:30",
+      "ticket": 40,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史",
+        "建筑",
+        "纳西文化"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "即木府，现为博物院，展示纳西族历史文物，建筑精美。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_014",
+      "name": "丽江东巴文化博物馆",
+      "category": "博物馆",
+      "location": "古城区黑龙潭公园旁",
+      "coordinates": [
+        100.225,
+        26.884
+      ],
+      "open_time": "09:00-17:00",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "东巴文化",
+        "象形文字",
+        "文物"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "展示东巴文化，东巴经书、绘画、法器，了解纳西族宗教。",
+      "transport": "公交3路至黑龙潭站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_015",
+      "name": "丽江古城狮子山公园",
+      "category": "休闲公园",
+      "location": "古城区大研街道",
+      "coordinates": [
+        100.229,
+        26.871
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "万古楼",
+        "俯瞰古城",
+        "登山"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "狮子山是古城制高点，万古楼可俯瞰古城全景，适合拍照。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_016",
+      "name": "丽江宋城旅游区",
+      "category": "主题乐园",
+      "location": "玉龙纳西族自治县玉龙雪山脚下",
+      "coordinates": [
+        100.219311,
+        26.829355
+      ],
+      "open_time": "14:00-21:00",
+      "ticket": 280,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "演艺",
+        "文化",
+        "娱乐"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "与千古情景区类似，有《丽江恋歌》等演出，仿古建筑。",
+      "transport": "公交23路至宋城站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_017",
+      "name": "丽江观音峡",
+      "category": "自然风光",
+      "location": "玉龙纳西族自治县七河镇",
+      "coordinates": [
+        100.267984,
+        26.76879
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 40,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "峡谷",
+        "瀑布",
+        "玻璃栈道"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "峡谷风光，有观音瀑布，可体验玻璃栈道，茶马古道遗迹。",
+      "transport": "公交26路至观音峡站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_018",
+      "name": "丽江古城四方街",
+      "category": "地标打卡",
+      "location": "古城区大研街道",
+      "coordinates": [
+        100.233,
+        26.872
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1小时",
+      "tags": [
+        "中心广场",
+        "纳西舞蹈",
+        "美食"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "古城中心，四通八达，夜晚有篝火晚会，周围小吃众多。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_019",
+      "name": "丽江古城大水车",
+      "category": "地标打卡",
+      "location": "古城区大研街道北门",
+      "coordinates": [
+        100.250271,
+        26.878343
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "30分钟",
+      "tags": [
+        "标志",
+        "拍照",
+        "入口"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "古城标志性水车，游客必打卡，旁边有江泽民题词。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_020",
+      "name": "丽江古城万古楼",
+      "category": "地标打卡",
+      "location": "古城区狮子山公园内",
+      "coordinates": [
+        100.229,
+        26.871
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 50,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1小时",
+      "tags": [
+        "观景台",
+        "古楼",
+        "全景"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "五层楼阁，登顶可俯瞰丽江古城和玉龙雪山，摄影佳地。",
+      "transport": "古城内步行至狮子山",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_021",
+      "name": "丽江古城纳西古乐演奏厅",
+      "category": "博物馆",
+      "location": "古城区大研街道",
+      "coordinates": [
+        100.232,
+        26.871
+      ],
+      "open_time": "20:00-21:30",
+      "ticket": 120,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1.5小时",
+      "tags": [
+        "纳西古乐",
+        "音乐会",
+        "文化"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "欣赏纳西古乐演奏，古老乐器，传承人表演，感受文化。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_022",
+      "name": "丽江古城雪山书院",
+      "category": "人文古迹",
+      "location": "古城区大研街道",
+      "coordinates": [
+        100.231,
+        26.873
+      ],
+      "open_time": "09:00-17:00",
+      "ticket": 0,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "1小时",
+      "tags": [
+        "书院",
+        "历史",
+        "文化"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "清代书院，现为文化展示，可了解丽江教育历史。",
+      "transport": "古城内步行",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_023",
+      "name": "丽江拉市海茶马古道",
+      "category": "人文古迹",
+      "location": "玉龙纳西族自治县拉市镇",
+      "coordinates": [
+        100.162875,
+        26.883073
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 30,
+      "recommend_season": "四季皆宜",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "古道",
+        "骑马",
+        "历史"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "体验茶马古道，骑马穿越山林，感受马帮文化。",
+      "transport": "公交31路至拉市海",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "lj_att_024",
+      "name": "丽江永胜程海",
+      "category": "自然风光",
+      "location": "永胜县程海镇",
+      "coordinates": [
+        100.667423,
+        26.600551
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "夏季",
+      "visit_duration": "2小时",
+      "tags": [
+        "湖泊",
+        "螺旋藻",
+        "休闲"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "云南第四大湖泊，盛产螺旋藻，湖光山色，适合休闲。",
+      "transport": "丽江客运站班车至永胜",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "verified",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验",
+    "verified_at": "2026-08-13"
+  }
+}

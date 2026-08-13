@@ -1,0 +1,267 @@
+{
+  "city": "lijiang",
+  "city_name": "丽江",
+  "foods": [
+    {
+      "id": "lj_food_001",
+      "name": "阿婆腊排骨",
+      "category": "火锅",
+      "area": "古城区五一街",
+      "price_per_person": 60,
+      "recommend_time": "晚餐",
+      "tags": [
+        "纳西风味",
+        "腊排骨",
+        "人气老店"
+      ],
+      "description": "丽江特色腊排骨火锅，选用高原土猪腌制，汤底浓郁，配以时蔬，暖身又美味。",
+      "signature_dish": "腊排骨火锅",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_002",
+      "name": "丽江粑粑",
+      "category": "小吃",
+      "area": "古城区四方街",
+      "price_per_person": 15,
+      "recommend_time": "早餐",
+      "tags": [
+        "纳西传统",
+        "酥脆",
+        "街头小吃"
+      ],
+      "description": "纳西族传统面食，外皮酥脆，内馅有甜咸两种，是丽江最具代表性的街头早餐。",
+      "signature_dish": "丽江粑粑",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_003",
+      "name": "鸡豆凉粉",
+      "category": "小吃",
+      "area": "古城区忠义市场",
+      "price_per_person": 10,
+      "recommend_time": "午餐",
+      "tags": [
+        "纳西特色",
+        "酸辣",
+        "素食"
+      ],
+      "description": "用鸡豆磨浆制成，口感爽滑，配以辣椒、醋等调料，酸辣开胃，是当地人的最爱。",
+      "signature_dish": "鸡豆凉粉",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_004",
+      "name": "雪山三文鱼",
+      "category": "正餐",
+      "area": "玉龙县白沙镇",
+      "price_per_person": 150,
+      "recommend_time": "晚餐",
+      "tags": [
+        "玉龙雪山",
+        "虹鳟鱼",
+        "一鱼三吃"
+      ],
+      "description": "取自玉龙雪山融水养殖的虹鳟鱼，肉质鲜嫩，可生吃、涮锅、油炸，是雪山脚下的特色美食。",
+      "signature_dish": "一鱼三吃",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_005",
+      "name": "纳西烤肉",
+      "category": "正餐",
+      "area": "古城区束河古镇",
+      "price_per_person": 80,
+      "recommend_time": "晚餐",
+      "tags": [
+        "纳西风味",
+        "炭火烤制",
+        "肥而不腻"
+      ],
+      "description": "选用五花肉腌制后炭火烤制，外焦里嫩，搭配薄荷叶和辣椒面，香而不腻。",
+      "signature_dish": "纳西烤肉",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_006",
+      "name": "酥油茶",
+      "category": "饮品",
+      "area": "古城区黑龙潭附近",
+      "price_per_person": 20,
+      "recommend_time": "早餐",
+      "tags": [
+        "藏式风味",
+        "高原特色",
+        "暖身"
+      ],
+      "description": "用酥油和茶叶打制而成，咸香浓郁，是高原地区抵御寒冷和补充能量的传统饮品。",
+      "signature_dish": "酥油茶",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_007",
+      "name": "米灌肠",
+      "category": "小吃",
+      "area": "古城区七一街",
+      "price_per_person": 25,
+      "recommend_time": "午餐",
+      "tags": [
+        "纳西传统",
+        "猪血糯米",
+        "煎烤"
+      ],
+      "description": "将猪血、糯米、香料灌入肠衣，蒸熟后切片煎烤，外脆内糯，风味独特。",
+      "signature_dish": "米灌肠",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_008",
+      "name": "野生菌火锅",
+      "category": "火锅",
+      "area": "古城区花马街",
+      "price_per_person": 120,
+      "recommend_time": "晚餐",
+      "tags": [
+        "高原山珍",
+        "菌菇",
+        "养生"
+      ],
+      "description": "选用多种云南野生菌（松茸、牛肝菌等）熬制汤底，鲜美无比，是高原馈赠的养生美味。",
+      "signature_dish": "野生菌拼盘",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_009",
+      "name": "纳西米线",
+      "category": "米线",
+      "area": "古城区南门街",
+      "price_per_person": 30,
+      "recommend_time": "早餐",
+      "tags": [
+        "纳西风味",
+        "土鸡",
+        "酸辣"
+      ],
+      "description": "以土鸡熬汤，配以酸菜、韭菜、肉末，汤鲜味美，是丽江人早餐的常见选择。",
+      "signature_dish": "土鸡米线",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_010",
+      "name": "黑山羊火锅",
+      "category": "火锅",
+      "area": "古城区金甲路",
+      "price_per_person": 90,
+      "recommend_time": "晚餐",
+      "tags": [
+        "高原羊肉",
+        "滋补",
+        "带皮羊肉"
+      ],
+      "description": "选用高原黑山羊，带皮切块，汤底浓郁，肉质细嫩无膻味，冬季滋补佳品。",
+      "signature_dish": "带皮黑山羊肉",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_011",
+      "name": "丽江蜜饯",
+      "category": "小吃",
+      "area": "古城区大研古镇",
+      "price_per_person": 20,
+      "recommend_time": "下午茶",
+      "tags": [
+        "传统工艺",
+        "甜而不腻",
+        "果脯"
+      ],
+      "description": "用当地水果（木瓜、梅子等）腌制而成，甜而不腻，是茶马古道上的传统零食。",
+      "signature_dish": "木瓜蜜饯",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_012",
+      "name": "烤乳扇",
+      "category": "小吃",
+      "area": "古城区四方街",
+      "price_per_person": 15,
+      "recommend_time": "下午茶",
+      "tags": [
+        "乳制品",
+        "奶香",
+        "街头小吃"
+      ],
+      "description": "牛奶制成的乳扇，烤后涂上玫瑰酱或炼乳，奶香浓郁，是云南特色小吃。",
+      "signature_dish": "烤乳扇",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_013",
+      "name": "石锅鱼",
+      "category": "正餐",
+      "area": "玉龙县拉市海",
+      "price_per_person": 100,
+      "recommend_time": "晚餐",
+      "tags": [
+        "拉市海",
+        "鲜鱼",
+        "石锅烹饪"
+      ],
+      "description": "用石锅炖煮拉市海新鲜鱼，配以豆腐、菌菇，汤鲜肉嫩，原汁原味。",
+      "signature_dish": "石锅鱼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_014",
+      "name": "青稞饼",
+      "category": "小吃",
+      "area": "古城区束河古镇",
+      "price_per_person": 18,
+      "recommend_time": "早餐",
+      "tags": [
+        "高原谷物",
+        "粗粮",
+        "香脆"
+      ],
+      "description": "用青稞面烤制，口感香脆，带有谷物清香，是高原地区的健康主食。",
+      "signature_dish": "青稞饼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_food_015",
+      "name": "马帮菜",
+      "category": "正餐",
+      "area": "古城区茶马古道博物馆旁",
+      "price_per_person": 200,
+      "recommend_time": "晚餐",
+      "tags": [
+        "茶马古道",
+        "历史风味",
+        "土菜"
+      ],
+      "description": "重现茶马古道马帮的饮食，以腊肉、干巴、野菜为主，口味咸香，充满历史韵味。",
+      "signature_dish": "马帮大杂烩",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

@@ -1,0 +1,26 @@
+# AI旅行规划助手 - 后端依赖清单
+# 安装命令: pip install -r requirements.txt
+
+fastapi          # Web后端框架
+uvicorn          # 运行服务器
+openai           # 调用DeepSeek API（DeepSeek兼容OpenAI协议）
+python-dotenv    # 读取.env配置文件中的API密钥
+
+# Agent 与 RAG
+langgraph        # Agent工作流编排（多节点/并行子图）
+sentence-transformers  # BGE Embedding/Rerank 模型
+faiss-cpu        # 向量检索库
+
+# 多模态（Chinese-CLIP）
+transformers     # 模型加载（ChineseCLIPModel）
+Pillow           # 图片处理
+
+# 模型下载（ModelScope 国内直连）
+modelscope       # download_models.py 从魔搭下载模型
+
+# 外部工具调用
+requests         # 和风天气/高德API调用
+
+# 认证与文件上传
+PyJWT            # JWT令牌
+python-multipart # 图片上传解析

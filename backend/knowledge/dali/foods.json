@@ -1,0 +1,267 @@
+{
+  "city": "dali",
+  "city_name": "大理",
+  "foods": [
+    {
+      "id": "dl_food_001",
+      "name": "再回首凉鸡米线",
+      "category": "米线",
+      "area": "大理古城",
+      "price_per_person": 15,
+      "recommend_time": "午餐",
+      "tags": [
+        "老字号",
+        "本地特色",
+        "平价"
+      ],
+      "description": "大理古城老牌凉鸡米线，鸡肉丝配秘制酱料，酸辣爽口，是当地人从小吃到大的味道。",
+      "signature_dish": "凉鸡米线",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_002",
+      "name": "段公子·天龙八部主题餐厅",
+      "category": "正餐",
+      "area": "大理古城",
+      "price_per_person": 120,
+      "recommend_time": "晚餐",
+      "tags": [
+        "主题餐厅",
+        "白族菜",
+        "网红"
+      ],
+      "description": "以天龙八部为主题的餐厅，装修古风，主打白族特色菜，菜品精致，适合体验大理文化。",
+      "signature_dish": "段氏糯米排骨",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_003",
+      "name": "洱月小厨",
+      "category": "正餐",
+      "area": "大理古城",
+      "price_per_person": 80,
+      "recommend_time": "晚餐",
+      "tags": [
+        "白族家常菜",
+        "洱海鱼",
+        "性价比"
+      ],
+      "description": "主打洱海鱼和白族家常菜，食材新鲜，口味地道，价格实惠，深受游客和本地人喜爱。",
+      "signature_dish": "酸辣洱海鱼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_004",
+      "name": "喜洲破酥粑粑",
+      "category": "小吃",
+      "area": "喜洲古镇",
+      "price_per_person": 10,
+      "recommend_time": "早餐",
+      "tags": [
+        "非遗",
+        "喜洲特色",
+        "现烤"
+      ],
+      "description": "喜洲古镇特色破酥粑粑，外皮酥脆，内馅有甜咸两种，炭火烤制，是必尝的当地小吃。",
+      "signature_dish": "破酥粑粑",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_005",
+      "name": "双廊渔家乐",
+      "category": "正餐",
+      "area": "双廊古镇",
+      "price_per_person": 150,
+      "recommend_time": "午餐",
+      "tags": [
+        "洱海景观",
+        "渔家菜",
+        "新鲜"
+      ],
+      "description": "位于双廊洱海边，主打洱海鱼虾，可边用餐边欣赏苍山洱海美景，体验渔家生活。",
+      "signature_dish": "砂锅鱼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_006",
+      "name": "大理白族三道茶",
+      "category": "饮品",
+      "area": "大理古城",
+      "price_per_person": 60,
+      "recommend_time": "下午茶",
+      "tags": [
+        "白族文化",
+        "传统",
+        "体验"
+      ],
+      "description": "白族传统三道茶，一苦二甜三回味，搭配白族歌舞表演，是感受白族文化的绝佳方式。",
+      "signature_dish": "三道茶",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_007",
+      "name": "杨记乳扇",
+      "category": "小吃",
+      "area": "大理古城",
+      "price_per_person": 20,
+      "recommend_time": "下午茶",
+      "tags": [
+        "乳扇",
+        "烤制",
+        "奶香"
+      ],
+      "description": "大理特色乳扇，用牛奶制成，烤后刷上玫瑰糖，奶香浓郁，甜而不腻，是街头经典小吃。",
+      "signature_dish": "烤乳扇",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_008",
+      "name": "苍山中和寺素斋",
+      "category": "正餐",
+      "area": "苍山",
+      "price_per_person": 50,
+      "recommend_time": "午餐",
+      "tags": [
+        "素斋",
+        "寺庙",
+        "健康"
+      ],
+      "description": "位于苍山中和寺，提供简单素斋，食材取自山间，清淡健康，环境清幽，适合登山后休憩。",
+      "signature_dish": "素斋套餐",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_009",
+      "name": "大理古城人民路夜市",
+      "category": "小吃",
+      "area": "大理古城",
+      "price_per_person": 40,
+      "recommend_time": "夜宵",
+      "tags": [
+        "夜市",
+        "多样",
+        "烟火气"
+      ],
+      "description": "人民路夜市汇集各种小吃，烤串、炸洋芋、凉粉等，价格亲民，是体验大理夜生活的好去处。",
+      "signature_dish": "烤饵块",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_010",
+      "name": "挖色菜香园",
+      "category": "正餐",
+      "area": "挖色镇",
+      "price_per_person": 70,
+      "recommend_time": "午餐",
+      "tags": [
+        "白族菜",
+        "海景",
+        "本地人"
+      ],
+      "description": "挖色镇上的白族菜馆，主打洱海鱼和当地时蔬，味道正宗，价格实惠，很多本地人光顾。",
+      "signature_dish": "酸辣鱼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_011",
+      "name": "大理啤酒",
+      "category": "饮品",
+      "area": "大理古城",
+      "price_per_person": 15,
+      "recommend_time": "晚餐",
+      "tags": [
+        "本地啤酒",
+        "清爽",
+        "佐餐"
+      ],
+      "description": "大理本地啤酒，口感清爽，搭配白族菜或烧烤，是体验当地风情的必备饮品。",
+      "signature_dish": "大理啤酒",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_012",
+      "name": "巍山𤆵肉饵丝",
+      "category": "米线",
+      "area": "巍山古城",
+      "price_per_person": 18,
+      "recommend_time": "早餐",
+      "tags": [
+        "巍山特色",
+        "饵丝",
+        "汤鲜"
+      ],
+      "description": "巍山名小吃，饵丝软糯，𤆵肉炖得酥烂，汤头鲜美，是当地人的早餐首选。",
+      "signature_dish": "𤆵肉饵丝",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_013",
+      "name": "海稍鱼庄",
+      "category": "火锅",
+      "area": "海稍",
+      "price_per_person": 100,
+      "recommend_time": "晚餐",
+      "tags": [
+        "海稍鱼",
+        "酸辣",
+        "火锅"
+      ],
+      "description": "海稍鱼是宾川特色，酸辣汤底，鱼肉鲜嫩，配以洋芋和豆腐，适合多人聚餐。",
+      "signature_dish": "海稍鱼火锅",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_014",
+      "name": "大理古城唐咖",
+      "category": "饮品",
+      "area": "大理古城",
+      "price_per_person": 35,
+      "recommend_time": "下午茶",
+      "tags": [
+        "咖啡",
+        "慢生活",
+        "文艺"
+      ],
+      "description": "大理古城文艺咖啡馆，环境舒适，咖啡豆自烘，适合发呆晒太阳，体验大理慢生活。",
+      "signature_dish": "手冲咖啡",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_food_015",
+      "name": "龙龛码头渔家宴",
+      "category": "正餐",
+      "area": "龙龛码头",
+      "price_per_person": 200,
+      "recommend_time": "晚餐",
+      "tags": [
+        "高端",
+        "洱海景观",
+        "渔家菜"
+      ],
+      "description": "位于龙龛码头，主打高端渔家宴，食材新鲜，环境优雅，可欣赏洱海日落，适合特殊场合。",
+      "signature_dish": "全鱼宴",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

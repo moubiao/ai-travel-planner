@@ -1,0 +1,318 @@
+{
+  "city": "chongqing",
+  "city_name": "重庆",
+  "foods": [
+    {
+      "id": "cq_food_001",
+      "name": "珮姐老火锅(洪崖洞店)",
+      "category": "火锅",
+      "area": "渝中区",
+      "price_per_person": 120,
+      "recommend_time": "晚餐",
+      "tags": [
+        "网红",
+        "麻辣",
+        "夜景"
+      ],
+      "description": "重庆火锅代表，锅底醇厚，菜品新鲜，可边吃边赏洪崖洞夜景。",
+      "signature_dish": "贡菜丸子",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_002",
+      "name": "晓小面",
+      "category": "小吃",
+      "area": "渝中区",
+      "price_per_person": 15,
+      "recommend_time": "早餐",
+      "tags": [
+        "小面",
+        "地道",
+        "市井"
+      ],
+      "description": "重庆小面经典，麻辣鲜香，面条劲道，本地人常去的苍蝇馆子。",
+      "signature_dish": "豌杂面",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_003",
+      "name": "李子坝梁山鸡",
+      "category": "正餐",
+      "area": "渝中区",
+      "price_per_person": 80,
+      "recommend_time": "午餐",
+      "tags": [
+        "芋儿鸡",
+        "药膳",
+        "老字号"
+      ],
+      "description": "梁山鸡软糯入味，配以芋儿和中药，滋补又美味，近李子坝轻轨站。",
+      "signature_dish": "梁山鸡",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_004",
+      "name": "南山一棵树观景台火锅",
+      "category": "火锅",
+      "area": "南岸区",
+      "price_per_person": 200,
+      "recommend_time": "晚餐",
+      "tags": [
+        "夜景",
+        "高端",
+        "观景"
+      ],
+      "description": "位于南山观景台，边吃火锅边俯瞰重庆两江夜景，浪漫至极。",
+      "signature_dish": "毛肚",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_005",
+      "name": "花市豌杂面",
+      "category": "小吃",
+      "area": "渝中区",
+      "price_per_person": 18,
+      "recommend_time": "早餐",
+      "tags": [
+        "豌杂面",
+        "人气",
+        "老字号"
+      ],
+      "description": "豌杂面软糯豌豆与杂酱完美结合，麻辣鲜香，排队也要吃。",
+      "signature_dish": "豌杂面",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_006",
+      "name": "周师兄大刀腰片火锅",
+      "category": "火锅",
+      "area": "江北区",
+      "price_per_person": 150,
+      "recommend_time": "晚餐",
+      "tags": [
+        "大刀腰片",
+        "人气",
+        "黑珍珠"
+      ],
+      "description": "招牌大刀腰片薄脆爽口，锅底麻辣鲜香，连续多年上榜必吃榜。",
+      "signature_dish": "大刀腰片",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_007",
+      "name": "山城小汤圆",
+      "category": "小吃",
+      "area": "渝中区",
+      "price_per_person": 10,
+      "recommend_time": "下午茶",
+      "tags": [
+        "甜品",
+        "传统",
+        "老字号"
+      ],
+      "description": "传统手工汤圆，皮薄馅大，甜而不腻，有醪糟和桂花口味。",
+      "signature_dish": "醪糟小汤圆",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_008",
+      "name": "老灶房乡村菜",
+      "category": "正餐",
+      "area": "沙坪坝区",
+      "price_per_person": 60,
+      "recommend_time": "午餐",
+      "tags": [
+        "江湖菜",
+        "家常",
+        "分量足"
+      ],
+      "description": "地道的重庆江湖菜，麻辣鲜香，菜品分量足，适合朋友聚餐。",
+      "signature_dish": "来凤鱼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_009",
+      "name": "一只酸奶牛",
+      "category": "饮品",
+      "area": "渝中区",
+      "price_per_person": 15,
+      "recommend_time": "下午茶",
+      "tags": [
+        "酸奶",
+        "紫米",
+        "连锁"
+      ],
+      "description": "重庆本土饮品品牌，招牌紫米酸奶，口感丰富，解辣解腻。",
+      "signature_dish": "原味紫米酸奶",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_010",
+      "name": "磁器口陈麻花",
+      "category": "小吃",
+      "area": "沙坪坝区",
+      "price_per_person": 20,
+      "recommend_time": "下午茶",
+      "tags": [
+        "麻花",
+        "伴手礼",
+        "老字号"
+      ],
+      "description": "磁器口古镇必买，酥脆可口，有原味、麻辣、五香等多种口味。",
+      "signature_dish": "原味麻花",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_011",
+      "name": "曾老幺鱼庄",
+      "category": "正餐",
+      "area": "渝中区",
+      "price_per_person": 70,
+      "recommend_time": "晚餐",
+      "tags": [
+        "邮亭鲫鱼",
+        "防空洞",
+        "特色"
+      ],
+      "description": "开在防空洞里的老店，邮亭鲫鱼鲜嫩入味，体验山城独特地形。",
+      "signature_dish": "邮亭鲫鱼",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_012",
+      "name": "好又来酸辣粉",
+      "category": "小吃",
+      "area": "渝中区",
+      "price_per_person": 10,
+      "recommend_time": "午餐",
+      "tags": [
+        "酸辣粉",
+        "街头",
+        "人气"
+      ],
+      "description": "解放碑人气小吃，酸辣粉爽滑劲道，酸辣开胃，边走边吃。",
+      "signature_dish": "杂酱酸辣粉",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_013",
+      "name": "枇杷园火锅",
+      "category": "火锅",
+      "area": "南岸区",
+      "price_per_person": 100,
+      "recommend_time": "晚餐",
+      "tags": [
+        "南山",
+        "园林",
+        "夜景"
+      ],
+      "description": "依山而建的园林火锅，环境优美，边吃火锅边看夜景，体验山城特色。",
+      "signature_dish": "鲜毛肚",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_014",
+      "name": "丘二馆",
+      "category": "正餐",
+      "area": "渝中区",
+      "price_per_person": 50,
+      "recommend_time": "午餐",
+      "tags": [
+        "炖鸡",
+        "老字号",
+        "清淡"
+      ],
+      "description": "百年老店，主打炖鸡汤，汤鲜味美，适合想吃清淡口味的食客。",
+      "signature_dish": "鸡汤",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_015",
+      "name": "九村烤脑花",
+      "category": "烧烤",
+      "area": "江北区",
+      "price_per_person": 60,
+      "recommend_time": "夜宵",
+      "tags": [
+        "烤脑花",
+        "夜宵",
+        "麻辣"
+      ],
+      "description": "重庆烧烤代表，烤脑花嫩滑入味，麻辣鲜香，夜宵首选。",
+      "signature_dish": "烤脑花",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_016",
+      "name": "重庆小面(老字号)",
+      "category": "小吃",
+      "area": "九龙坡区",
+      "price_per_person": 12,
+      "recommend_time": "早餐",
+      "tags": [
+        "小面",
+        "地道",
+        "市井"
+      ],
+      "description": "藏在居民楼下的老字号，小面麻辣鲜香，是重庆人一天的开始。",
+      "signature_dish": "牛肉面",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_017",
+      "name": "洪崖洞码头老火锅",
+      "category": "火锅",
+      "area": "渝中区",
+      "price_per_person": 130,
+      "recommend_time": "晚餐",
+      "tags": [
+        "江景",
+        "老火锅",
+        "网红"
+      ],
+      "description": "位于洪崖洞，可看两江交汇，锅底醇厚，菜品新鲜，体验重庆火锅文化。",
+      "signature_dish": "九宫格",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_food_018",
+      "name": "解放碑八一路好吃街",
+      "category": "小吃",
+      "area": "渝中区",
+      "price_per_person": 30,
+      "recommend_time": "下午茶",
+      "tags": [
+        "小吃街",
+        "多样",
+        "人气"
+      ],
+      "description": "汇集重庆各种小吃，酸辣粉、串串、冰粉等，一站式品尝地道美食。",
+      "signature_dish": "冰粉",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

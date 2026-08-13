@@ -1,0 +1,734 @@
+{
+  "city": "chengdu",
+  "city_name": "成都",
+  "attractions": [
+    {
+      "id": "cd_att_001",
+      "name": "成都大熊猫繁育研究基地",
+      "category": "自然风光",
+      "location": "成华区熊猫大道1375号",
+      "coordinates": [
+        104.138176,
+        30.740573
+      ],
+      "open_time": "07:30-18:00（17:00停止入园）",
+      "ticket": 55,
+      "recommend_season": "全年（春秋最佳，熊猫更活跃）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "亲子",
+        "自然风光",
+        "必打卡",
+        "户外"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "全球知名的大熊猫保护研究机构，可近距离观看不同年龄段的熊猫，还有小熊猫、黑颈鹤等动物。建议早上去，熊猫上午最活跃。",
+      "transport": "地铁3号线熊猫大道站出站换乘接驳车；市区打车约40分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_002",
+      "name": "宽窄巷子",
+      "category": "历史文化",
+      "location": "青羊区长顺上街",
+      "coordinates": [
+        104.053307,
+        30.663869
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年（夜晚灯光更美）",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "历史文化",
+        "城市休闲",
+        "美食",
+        "夜生活"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "成都三大历史文化名街之一，由宽巷子、窄巷子、井巷子组成，保留清朝古建筑风貌，茶馆、川剧变脸、小吃云集，是体验成都慢生活的最佳去处。",
+      "transport": "地铁4号线宽窄巷子站直达",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_003",
+      "name": "锦里古街",
+      "category": "历史文化",
+      "location": "武侯区武侯祠大街231号",
+      "coordinates": [
+        104.0498,
+        30.6422
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年（节假日有民俗活动）",
+      "visit_duration": "2小时",
+      "tags": [
+        "历史文化",
+        "美食",
+        "购物",
+        "夜生活"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "以三国文化为主题的仿古商业街，紧邻武侯祠，有川戏、变脸、皮影等民俗表演，小吃和手工艺品众多，夜晚红灯笼亮起氛围极佳。",
+      "transport": "地铁3号线高升桥站步行15分钟；公交1路直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_004",
+      "name": "武侯祠博物馆",
+      "category": "历史文化",
+      "location": "武侯区武侯祠大街231号",
+      "coordinates": [
+        104.0498,
+        30.6415
+      ],
+      "open_time": "09:00-18:00",
+      "ticket": 50,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "历史文化",
+        "室内"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "中国唯一君臣合祀祠庙，纪念刘备与诸葛亮，三国文化核心地标。红墙竹影是经典拍照点，与锦里相连，可安排在同一行程。",
+      "transport": "地铁3号线高升桥站步行15分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_005",
+      "name": "杜甫草堂博物馆",
+      "category": "历史文化",
+      "location": "青羊区青华路37号",
+      "coordinates": [
+        104.0305,
+        30.6602
+      ],
+      "open_time": "09:00-18:00",
+      "ticket": 50,
+      "recommend_season": "全年（雨后更显诗意）",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "历史文化",
+        "自然风光",
+        "室内"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "诗圣杜甫流寓成都时的故居，茅屋故居、诗史堂、工部祠错落于竹林溪水之间，园内古木参天，是中国文学史上的重要纪念地。",
+      "transport": "地铁4号线草堂北路站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_006",
+      "name": "青城山（前山）",
+      "category": "自然风光",
+      "location": "都江堰市青城山镇",
+      "coordinates": [
+        103.5737,
+        30.8981
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 80,
+      "recommend_season": "4-10月（夏季避暑胜地）",
+      "visit_duration": "4-6小时",
+      "tags": [
+        "自然风光",
+        "户外",
+        "道教文化",
+        "避暑"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "道教发源地之一，世界文化遗产，前山道观林立、林木青翠，素有'青城天下幽'之誉。适合登山徒步，也可乘索道上下。",
+      "transport": "成都犀浦站乘城际列车至青城山站约30分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_007",
+      "name": "都江堰景区",
+      "category": "历史文化",
+      "location": "都江堰市公园路",
+      "coordinates": [
+        103.610529,
+        31.003363
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 80,
+      "recommend_season": "全年（夏季水量充沛更壮观）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "历史文化",
+        "自然风光",
+        "世界遗产"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "两千多年前李冰父子主持修建的伟大水利工程，至今仍在发挥作用，是世界文化遗产。鱼嘴、飞沙堰、宝瓶口三大工程令人叹服古人智慧。",
+      "transport": "成都犀浦站乘城际列车至离堆公园站约30分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_008",
+      "name": "人民公园（鹤鸣茶社）",
+      "category": "城市休闲",
+      "location": "青羊区少城路12号",
+      "coordinates": [
+        104.0567,
+        30.6642
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "城市休闲",
+        "美食",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "成都最有名的市民公园，鹤鸣茶社是百年老茶馆，点一杯盖碗茶、掏个耳朵，体验最地道的成都慢生活。园内还有保路运动纪念碑。",
+      "transport": "地铁2号线人民公园站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_009",
+      "name": "春熙路·太古里",
+      "category": "购物",
+      "location": "锦江区春熙路",
+      "coordinates": [
+        104.0813,
+        30.6557
+      ],
+      "open_time": "全天开放（商场10:00-22:00）",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2-4小时",
+      "tags": [
+        "购物",
+        "夜生活",
+        "城市休闲"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "成都最繁华的商业中心，春熙路步行街与太古里开放式街区相连，IFS爬墙熊猫是网红地标，品牌齐全，餐饮选择丰富。",
+      "transport": "地铁2号线/3号线春熙路站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_010",
+      "name": "金沙遗址博物馆",
+      "category": "历史文化",
+      "location": "青羊区金沙遗址路2号",
+      "coordinates": [
+        104.0187,
+        30.6763
+      ],
+      "open_time": "09:00-18:00（周一闭馆）",
+      "ticket": 70,
+      "recommend_season": "全年",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "历史文化",
+        "室内",
+        "亲子"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "古蜀文明的重要遗址，镇馆之宝'太阳神鸟'金饰是中国文化遗产标志。遗迹馆可现场看到考古发掘现场，陈列馆文物精美，是了解古蜀文化的最佳窗口。",
+      "transport": "地铁7号线金沙博物馆站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_011",
+      "name": "文殊院",
+      "category": "历史文化",
+      "location": "青羊区文殊院街66号",
+      "coordinates": [
+        104.0763,
+        30.6812
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "宗教",
+        "美食"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "始建于隋代的佛教禅院，川西平原著名的佛教圣地，环境清幽。寺外文殊坊街区有成都最地道的宫廷糕点铺，可顺便品尝。",
+      "transport": "地铁1号线文殊院站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_012",
+      "name": "四川博物院",
+      "category": "历史文化",
+      "location": "青羊区浣花南路251号",
+      "coordinates": [
+        104.0291,
+        30.6656
+      ],
+      "open_time": "09:00-17:00（周一闭馆）",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "历史文化",
+        "室内",
+        "亲子"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "西南地区最大的综合性博物馆，馆藏文物30余万件，张大千书画馆、巴蜀青铜馆最具特色，免费开放，适合雨天参观。",
+      "transport": "地铁4号线草堂北路站步行15分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_013",
+      "name": "成都博物馆",
+      "category": "历史文化",
+      "location": "青羊区小河街1号（天府广场西侧）",
+      "coordinates": [
+        104.0645,
+        30.6572
+      ],
+      "open_time": "09:00-17:00（周一闭馆）",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "历史文化",
+        "室内",
+        "亲子"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "位于天府广场的现代化博物馆，'花重锦官城'常设展系统讲述成都4500年城市史，皮影木偶展厅独具特色，免费但需提前预约。",
+      "transport": "地铁1号线/2号线天府广场站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_014",
+      "name": "东郊记忆",
+      "category": "城市休闲",
+      "location": "成华区建设南支路4号",
+      "coordinates": [
+        104.1266,
+        30.6671
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年（夜间工业风灯光）",
+      "visit_duration": "2小时",
+      "tags": [
+        "城市休闲",
+        "艺术",
+        "夜生活",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "由老工业厂区改造的艺术文创园区，红砖厂房、工业遗迹与画廊、Livehouse、咖啡馆融合，是年轻人拍照打卡和看演出的热门地。",
+      "transport": "地铁8号线东郊记忆站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_015",
+      "name": "大慈寺",
+      "category": "历史文化",
+      "location": "锦江区大慈寺路23号",
+      "coordinates": [
+        104.0806,
+        30.6539
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1小时",
+      "tags": [
+        "历史文化",
+        "宗教",
+        "城市休闲"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "始建于魏晋时期的千年古刹，紧邻太古里，闹中取静。寺内藏有大量佛教文物与壁画，逛完太古里可顺路参访。",
+      "transport": "地铁2号线/3号线春熙路站步行8分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_016",
+      "name": "昭觉寺",
+      "category": "历史文化",
+      "location": "成华区昭青路333号",
+      "coordinates": [
+        104.105956,
+        30.708103
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "宗教"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "西南地区规模最大的禅宗寺院之一，素有'川西第一丛林'之称，古木参天，香火旺盛，建筑庄重古朴。",
+      "transport": "地铁3号线昭觉寺南路站步行15分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_017",
+      "name": "黄龙溪古镇",
+      "category": "历史文化",
+      "location": "双流区黄龙溪镇",
+      "coordinates": [
+        103.9729,
+        30.3231
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "3-11月（夏季玩水）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "古镇",
+        "亲子",
+        "自然风光",
+        "美食"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "千年水码头古镇，府河与鹿溪河交汇处，明清古建筑沿河而建，夏季可在溪水中玩水，是成都近郊亲子休闲的热门目的地。",
+      "transport": "地铁5号线回龙站转公交；市区自驾约1小时",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_018",
+      "name": "洛带古镇",
+      "category": "历史文化",
+      "location": "龙泉驿区洛带镇",
+      "coordinates": [
+        104.328377,
+        30.636189
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年（3月桃花季）",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "古镇",
+        "美食",
+        "历史文化"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "中国西部最大的客家古镇，保存着广东会馆、湖广会馆等客家建筑群，伤心凉粉、客家擂茶是特色，还有金龙长城可攀登。",
+      "transport": "地铁4号线西河站转公交L024路；市区自驾约40分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_019",
+      "name": "平乐古镇",
+      "category": "历史文化",
+      "location": "邛崃市平乐镇",
+      "coordinates": [
+        103.33049,
+        30.34014
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "4-10月",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "古镇",
+        "自然风光",
+        "户外"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "'茶马古道第一镇'，白沫江穿镇而过，古桥、古树、吊脚楼构成川西水乡画卷，可体验竹筏漂流和田园骑行。",
+      "transport": "成都新南门车站乘大巴约1.5小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_020",
+      "name": "西岭雪山",
+      "category": "自然风光",
+      "location": "大邑县西岭镇",
+      "coordinates": [
+        103.194292,
+        30.663305
+      ],
+      "open_time": "08:30-17:00",
+      "ticket": 120,
+      "recommend_season": "12-3月（滑雪）",
+      "visit_duration": "1天",
+      "tags": [
+        "户外",
+        "自然风光",
+        "冬季",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "'窗含西岭千秋雪'诗句所在地，成都周边最近的雪山，冬季可滑雪、赏雪景，夏季是避暑胜地，需乘索道上山。",
+      "transport": "成都茶店子客运站乘大巴约2.5小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_021",
+      "name": "天台山",
+      "category": "自然风光",
+      "location": "邛崃市天台山镇",
+      "coordinates": [
+        103.126302,
+        30.278048
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 65,
+      "recommend_season": "4-10月（夏季萤火虫）",
+      "visit_duration": "半天-1天",
+      "tags": [
+        "自然风光",
+        "户外",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "以'山奇、石怪、水美、林幽'著称，夏季是成都周边观赏萤火虫的最佳地点，瀑布群与森林步道适合徒步。",
+      "transport": "成都新南门车站乘大巴约2小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_022",
+      "name": "三圣花乡",
+      "category": "城市休闲",
+      "location": "锦江区成龙大道",
+      "coordinates": [
+        104.13371,
+        30.571996
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "2-5月（花季）",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "亲子",
+        "自然风光",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "成都人的后花园，花乡农居、荷塘月色、东篱菊园等主题园区四季有花，可赏花、采摘、体验田园农家乐。",
+      "transport": "地铁13号线三圣花乡站（部分开通）；市区自驾约40分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_023",
+      "name": "成都欢乐谷",
+      "category": "城市休闲",
+      "location": "金牛区西华大道16号",
+      "coordinates": [
+        104.032415,
+        30.719292
+      ],
+      "open_time": "09:30-21:00（节假日延长）",
+      "ticket": 230,
+      "recommend_season": "全年（夏季水上乐园）",
+      "visit_duration": "半天-1天",
+      "tags": [
+        "亲子",
+        "娱乐",
+        "户外"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "大型主题乐园，有过山车、摩天轮、大摆锤等游乐项目，夏季开放水上乐园，适合家庭亲子出游。",
+      "transport": "地铁6号线西华大道站直达",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_024",
+      "name": "成都动物园",
+      "category": "城市休闲",
+      "location": "成华区昭觉寺南路234号",
+      "coordinates": [
+        104.106009,
+        30.710131
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 20,
+      "recommend_season": "全年",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "亲子",
+        "城市休闲"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "老牌动物园，有大熊猫、金丝猴等300余种动物，票价实惠，紧邻昭觉寺，适合带小朋友游玩。",
+      "transport": "地铁3号线动物园站直达",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_025",
+      "name": "望江楼公园",
+      "category": "城市休闲",
+      "location": "武侯区望江路30号",
+      "coordinates": [
+        104.0872,
+        30.6292
+      ],
+      "open_time": "全天开放（文物区08:00-18:00）",
+      "ticket": 0,
+      "recommend_season": "全年（春日竹海）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "城市休闲",
+        "自然风光",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "纪念唐代女诗人薛涛的园林，园内遍植翠竹上百种，望江楼临锦江而建，是市民休闲与汉服拍照的热门地。",
+      "transport": "地铁6号线三官堂站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_026",
+      "name": "浣花溪公园",
+      "category": "城市休闲",
+      "location": "青羊区青华路9号",
+      "coordinates": [
+        104.0321,
+        30.6631
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "城市休闲",
+        "自然风光",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "成都最大的开放式城市森林公园，与杜甫草堂相连，万树山、沧浪湖景色宜人，白鹭常栖，适合晨跑散步。",
+      "transport": "地铁4号线草堂北路站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_027",
+      "name": "永陵博物馆",
+      "category": "历史文化",
+      "location": "金牛区永陵路10号",
+      "coordinates": [
+        104.0493,
+        30.6808
+      ],
+      "open_time": "09:00-17:30",
+      "ticket": 20,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "室内"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "五代十国时期前蜀开国皇帝王建的陵墓，是迄今唯一墓室保存完好的古代帝王陵墓，地宫内的二十四伎乐浮雕为国之瑰宝。",
+      "transport": "地铁2号线通惠门站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_028",
+      "name": "宝光寺",
+      "category": "历史文化",
+      "location": "新都区宝光街81号",
+      "coordinates": [
+        104.1595,
+        30.8295
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 5,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "宗教"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "始建于东汉的千年古刹，以'一塔、二坊、三殿、四禅堂'闻名，寺内舍利塔与五百罗汉堂是川西佛教文化的代表。",
+      "transport": "地铁3号线钟楼站转公交；市区自驾约40分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_029",
+      "name": "桂湖公园",
+      "category": "历史文化",
+      "location": "新都区桂湖中路109号",
+      "coordinates": [
+        104.1601,
+        30.8259
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 20,
+      "recommend_season": "7-9月（荷花季）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "自然风光",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "明代文学家杨升庵故园，湖面荷花成片、桂花成林，荷塘月色意境优美，可游船赏荷，与宝光寺相邻可一并游览。",
+      "transport": "地铁3号线钟楼站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "cd_att_030",
+      "name": "天府广场",
+      "category": "城市休闲",
+      "location": "青羊区人民南路一段",
+      "coordinates": [
+        104.0653,
+        30.6584
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1小时",
+      "tags": [
+        "城市地标",
+        "城市休闲",
+        "夜生活"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "成都城市中心地标，毛主席雕像与音乐喷泉是经典景观，周边有成都博物馆、四川省图书馆，夜晚灯光璀璨。",
+      "transport": "地铁1号线/2号线天府广场站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    }
+  ],
+  "meta": {
+    "version": "1.1",
+    "updated_at": "2026-08-13",
+    "verify_status": "verified",
+    "verified_at": "2026-08-13"
+  }
+}

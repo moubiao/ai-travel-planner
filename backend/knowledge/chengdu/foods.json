@@ -1,0 +1,350 @@
+{
+  "city": "chengdu",
+  "city_name": "成都",
+  "foods": [
+    {
+      "id": "cd_food_001",
+      "name": "蜀九香火锅（春熙路店）",
+      "category": "火锅",
+      "area": "锦江区春熙路",
+      "price_per_person": 120,
+      "recommend_time": "晚餐",
+      "tags": [
+        "火锅",
+        "必打卡",
+        "聚餐"
+      ],
+      "description": "成都老牌火锅，牛油锅底香浓麻辣，毛肚、鹅肠、黄喉是必点招牌，本地人聚餐首选。",
+      "signature_dish": "极品毛肚、九香牛肉",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_002",
+      "name": "大龙燚火锅（玉林店）",
+      "category": "火锅",
+      "area": "武侯区玉林西路",
+      "price_per_person": 110,
+      "recommend_time": "晚餐",
+      "tags": [
+        "火锅",
+        "明星同款",
+        "夜宵"
+      ],
+      "description": "以麻辣著称的网红火锅店，多档明星光顾，锅底越煮越香，适合无辣不欢的食客。",
+      "signature_dish": "大龙燚毛肚、麻辣牛肉",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_003",
+      "name": "马路边边麻辣烫（致民路店）",
+      "category": "串串香",
+      "area": "武侯区致民路",
+      "price_per_person": 70,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "串串",
+        "市井",
+        "网红"
+      ],
+      "description": "还原80年代市井风格的串串店，锑锅煮串，蘸干碟最地道，小郡肝和牛肉串必拿。",
+      "signature_dish": "小郡肝、麻辣牛肉串",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_004",
+      "name": "钢管厂五区小郡肝串串香",
+      "category": "串串香",
+      "area": "成华区建设路",
+      "price_per_person": 75,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "串串",
+        "夜宵",
+        "平价"
+      ],
+      "description": "成都串串界传奇品牌，小郡肝脆嫩入味，性价比高，建设路店人气火爆。",
+      "signature_dish": "小郡肝、香菜牛肉",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_005",
+      "name": "陈麻婆豆腐（骡马市店）",
+      "category": "川菜",
+      "area": "青羊区骡马市",
+      "price_per_person": 60,
+      "recommend_time": "午餐",
+      "tags": [
+        "川菜",
+        "老字号",
+        "必打卡"
+      ],
+      "description": "中华老字号，麻婆豆腐创始店，豆腐麻、辣、烫、香、酥、嫩六味俱全，配一碗米饭绝佳。",
+      "signature_dish": "麻婆豆腐、宫保鸡丁",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_006",
+      "name": "龙抄手（春熙路总店）",
+      "category": "小吃",
+      "area": "锦江区春熙路",
+      "price_per_person": 30,
+      "recommend_time": "早餐/午餐",
+      "tags": [
+        "小吃",
+        "老字号",
+        "必打卡"
+      ],
+      "description": "成都名小吃代表，皮薄馅嫩的红油抄手最受欢迎，店内还有钟水饺、担担面等成都小吃全席。",
+      "signature_dish": "红油抄手、鸡丝凉面",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_007",
+      "name": "钟水饺（人民公园店）",
+      "category": "小吃",
+      "area": "青羊区人民公园",
+      "price_per_person": 25,
+      "recommend_time": "午餐",
+      "tags": [
+        "小吃",
+        "老字号"
+      ],
+      "description": "百年老字号，水饺个头小巧、皮韧馅鲜，红油蒜泥调味，甜辣交织，别具一格。",
+      "signature_dish": "红油水饺、赖汤圆",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_008",
+      "name": "洞子口张老二凉粉（文殊院店）",
+      "category": "小吃",
+      "area": "青羊区文殊院街",
+      "price_per_person": 15,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "凉粉",
+        "平价"
+      ],
+      "description": "文殊院旁的人气小店，甜水面筋道甜辣，黄凉粉爽滑，价格实惠，排队也要吃。",
+      "signature_dish": "甜水面、黄凉粉",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_009",
+      "name": "夫妻肺片（总府路店）",
+      "category": "川菜",
+      "area": "锦江区总府路",
+      "price_per_person": 55,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "川菜",
+        "老字号",
+        "凉菜"
+      ],
+      "description": "中华名小吃，牛肉牛杂卤制后淋上红油料汁，麻辣鲜香，是川菜凉菜的经典之作。",
+      "signature_dish": "夫妻肺片、蒜泥白肉",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_010",
+      "name": "老妈蹄花（人民公园店）",
+      "category": "川菜",
+      "area": "青羊区人民公园",
+      "price_per_person": 40,
+      "recommend_time": "晚餐/夜宵",
+      "tags": [
+        "蹄花",
+        "汤品",
+        "夜宵"
+      ],
+      "description": "炖到脱骨的雪白蹄花汤，汤浓味鲜，配秘制蘸碟，深夜一碗暖心暖胃，成都夜宵经典。",
+      "signature_dish": "老妈蹄花、跳水泡菜",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_011",
+      "name": "双流老妈兔头",
+      "category": "小吃",
+      "area": "双流区（市区多分店）",
+      "price_per_person": 15,
+      "recommend_time": "全天",
+      "tags": [
+        "兔头",
+        "麻辣",
+        "特色"
+      ],
+      "description": "成都人爱啃的兔头，五香与麻辣两种口味，卤香入味，啃起来停不下来，可真空打包带走。",
+      "signature_dish": "麻辣兔头、五香兔头",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_012",
+      "name": "冒椒火辣（奎星楼街店）",
+      "category": "串串香",
+      "area": "青羊区奎星楼街",
+      "price_per_person": 80,
+      "recommend_time": "晚餐",
+      "tags": [
+        "串串",
+        "网红",
+        "排队王"
+      ],
+      "description": "奎星楼街排队王，冷锅串串配冒脑花、兔腰等冒菜，麻辣鲜香，需提前取号。",
+      "signature_dish": "冒脑花、冷锅串串",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_013",
+      "name": "叶婆婆钵钵鸡（建设路店）",
+      "category": "钵钵鸡",
+      "area": "成华区建设路",
+      "price_per_person": 60,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "钵钵鸡",
+        "藤椒",
+        "平价"
+      ],
+      "description": "乐山风味钵钵鸡，红油与藤椒两种锅底，荤素签签自选，配一碗芽菜炒饭，清爽解馋。",
+      "signature_dish": "藤椒钵钵鸡、芽菜炒饭",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_014",
+      "name": "贺记蛋烘糕",
+      "category": "小吃",
+      "area": "青羊区文庙西街",
+      "price_per_person": 10,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "童年记忆",
+        "平价"
+      ],
+      "description": "成都人的童年味道，现烤蛋皮夹奶油肉松或麻辣牛肉，外脆里嫩，物美价廉。",
+      "signature_dish": "奶油肉松蛋烘糕、麻辣牛肉蛋烘糕",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_015",
+      "name": "三大炮（锦里）",
+      "category": "小吃",
+      "area": "武侯区锦里古街",
+      "price_per_person": 15,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "表演",
+        "甜点"
+      ],
+      "description": "锦里招牌小吃，糯米团在铜盘上'砰、砰、砰'三响滚上黄豆粉，配红糖汁，好吃又好看。",
+      "signature_dish": "三大炮、糖油果子",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_016",
+      "name": "川北凉粉（春熙路店）",
+      "category": "小吃",
+      "area": "锦江区春熙路",
+      "price_per_person": 15,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "凉粉",
+        "酸辣"
+      ],
+      "description": "南充风味川北凉粉，白凉粉细嫩筋道，红油酸辣开胃，夏天吃最过瘾。",
+      "signature_dish": "川北凉粉、凉面",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_017",
+      "name": "伤心凉粉（洛带古镇）",
+      "category": "小吃",
+      "area": "龙泉驿区洛带古镇",
+      "price_per_person": 12,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "客家",
+        "辣"
+      ],
+      "description": "客家名小吃，凉粉麻辣到流泪所以叫'伤心'，辣中带香，逛洛带古镇必吃。",
+      "signature_dish": "伤心凉粉、客家擂茶",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_018",
+      "name": "芙蓉树下冒菜",
+      "category": "冒菜",
+      "area": "武侯区（多分店）",
+      "price_per_person": 40,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "冒菜",
+        "一人食",
+        "平价"
+      ],
+      "description": "'一个人的火锅'，荤素自选煮入麻辣汤底，配米饭和冰粉，快速实惠地满足味蕾。",
+      "signature_dish": "牛肉冒菜、冒鸭肠",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_019",
+      "name": "建设路小吃街",
+      "category": "小吃街",
+      "area": "成华区建设巷",
+      "price_per_person": 50,
+      "recommend_time": "晚餐/夜宵",
+      "tags": [
+        "小吃街",
+        "夜宵",
+        "学生党"
+      ],
+      "description": "成都人气小吃街，烤脑花、烤苕皮、糖油果子、冰粉等几十种小吃聚集，人均50吃到撑。",
+      "signature_dish": "烤苕皮、糖油果子、冰粉",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_food_020",
+      "name": "奎星楼街美食街",
+      "category": "美食街",
+      "area": "青羊区奎星楼街",
+      "price_per_person": 80,
+      "recommend_time": "晚餐",
+      "tags": [
+        "美食街",
+        "网红店",
+        "川菜"
+      ],
+      "description": "毗邻宽窄巷子的美食街，冒椒火辣、成都吃客、饕林餐厅等网红店扎堆，成都美食新地标。",
+      "signature_dish": "成都吃客裸奔坨坨虾、饕林河渡鱼",
+      "source": "人工整理",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.1",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending"
+  }
+}

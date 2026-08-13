@@ -1,0 +1,152 @@
+{
+  "city": "lijiang",
+  "city_name": "丽江",
+  "hotels": [
+    {
+      "id": "lj_hotel_001",
+      "name": "丽江古城国际青年旅舍",
+      "area": "丽江古城（大研）",
+      "price_per_night": 180,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "古城内"
+      ],
+      "description": "位于古城中心，纳西庭院风格，氛围活跃，适合背包客，提供公共厨房和露台。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_002",
+      "name": "丽江束河K2国际青年旅舍",
+      "area": "束河古镇",
+      "price_per_night": 220,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "古镇内"
+      ],
+      "description": "束河古镇内，环境清幽，有花园和书吧，性价比高，适合喜欢安静的旅行者。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_003",
+      "name": "丽江白沙古镇纳西人家客栈",
+      "area": "白沙古镇",
+      "price_per_night": 260,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "古镇内"
+      ],
+      "description": "传统纳西民居改建，保留原汁原味，老板热情，可体验当地生活，近白沙壁画。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_004",
+      "name": "丽江古城花间堂·植梦院",
+      "area": "丽江古城（大研）",
+      "price_per_night": 380,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "古城内"
+      ],
+      "description": "精品客栈，融合纳西与现代设计，庭院精致，提供特色早餐，服务贴心。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_005",
+      "name": "丽江束河悦榕庄",
+      "area": "束河古镇",
+      "price_per_night": 450,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "古镇内"
+      ],
+      "description": "度假型酒店，房间宽敞，带独立阳台，可远眺玉龙雪山，含双早，环境优美。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_006",
+      "name": "丽江拉市海湿地公园酒店",
+      "area": "拉市海",
+      "price_per_night": 320,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "湖景"
+      ],
+      "description": "紧邻拉市海，湖景房视野佳，可安排骑马划船，适合家庭出游，含早餐。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_007",
+      "name": "丽江玉龙雪山金茂璞修雪山酒店",
+      "area": "玉龙雪山",
+      "price_per_night": 680,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "雪山景观"
+      ],
+      "description": "位于雪山脚下，每间房均可观雪山，配备地暖、氧吧，提供雪山专车接送。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_008",
+      "name": "丽江古城英迪格酒店",
+      "area": "丽江古城（大研）",
+      "price_per_night": 560,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "古城内"
+      ],
+      "description": "国际品牌，设计融合纳西文化，房间现代舒适，有屋顶酒吧，俯瞰古城。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_009",
+      "name": "泸沽湖且曼假日酒店",
+      "area": "宁蒗县（泸沽湖）",
+      "price_per_night": 520,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "湖景"
+      ],
+      "description": "泸沽湖畔，湖景房带阳台，可看日出，提供摩梭文化体验，含早餐。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "lj_hotel_010",
+      "name": "丽江永胜程海湖精品酒店",
+      "area": "永胜县",
+      "price_per_night": 480,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "湖景"
+      ],
+      "description": "位于程海湖畔，环境宁静，房间简约雅致，适合休闲度假，含双早。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

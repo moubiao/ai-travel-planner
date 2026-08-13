@@ -1,0 +1,236 @@
+{
+  "city": "kunming",
+  "city_name": "昆明",
+  "hotels": [
+    {
+      "id": "km_hotel_001",
+      "name": "全季酒店（昆明翠湖店）",
+      "area": "五华区翠湖南路",
+      "price_per_night": 320,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "景区旁",
+        "观鸥"
+      ],
+      "description": "步行5分钟到翠湖公园，冬季推窗可看红嘴鸥，周边讲武堂、云南大学散步可达。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_002",
+      "name": "亚朵酒店（昆明南屏街店）",
+      "area": "五华区南屏街",
+      "price_per_night": 400,
+      "stars": 4,
+      "tags": [
+        "中高端",
+        "商圈",
+        "品质"
+      ],
+      "description": "位于市中心南屏街商圈，金马碧鸡坊步行可达，购物餐饮便利，房间含茶室设计。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_003",
+      "name": "汉庭酒店（昆明火车站店）",
+      "area": "官渡区昆明站",
+      "price_per_night": 180,
+      "stars": 2,
+      "tags": [
+        "经济",
+        "交通枢纽",
+        "实惠"
+      ],
+      "description": "紧邻昆明火车站，适合火车出行旅客，价格实惠，地铁1号线直达市区。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_004",
+      "name": "如家酒店（昆明官渡古镇店）",
+      "area": "官渡区官渡古镇",
+      "price_per_night": 200,
+      "stars": 2,
+      "tags": [
+        "经济",
+        "古镇",
+        "小吃"
+      ],
+      "description": "位于官渡古镇旁，出门就是官渡粑粑、凉粉小吃街，感受老昆明市井生活。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_005",
+      "name": "昆明洲际酒店",
+      "area": "西山区滇池路1288号",
+      "price_per_night": 900,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "滇池",
+        "度假"
+      ],
+      "description": "滇池湖畔国际五星酒店，房间可看滇池景，含恒温泳池与SPA，观鸥季一房难求。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_006",
+      "name": "昆明华邑酒店",
+      "area": "西山区红塔西路",
+      "price_per_night": 700,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "滇池",
+        "商务"
+      ],
+      "description": "洲际旗下高端品牌，临近海埂大坝与云南民族村，中餐厅出品地道滇味。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_007",
+      "name": "维也纳国际酒店（昆明长水机场店）",
+      "area": "官渡区长水机场",
+      "price_per_night": 260,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "机场",
+        "接送机"
+      ],
+      "description": "提供免费接送机服务，适合早班机或中转旅客，隔音好，睡眠质量有保障。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_008",
+      "name": "昆明老街精品客栈（文明街）",
+      "area": "五华区文明街",
+      "price_per_night": 350,
+      "stars": 3,
+      "tags": [
+        "特色客栈",
+        "老街",
+        "民国风"
+      ],
+      "description": "藏在昆明老街的民国风客栈，雕花木窗与青石板巷，附近破酥包、嘉华鲜花饼近在咫尺。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_009",
+      "name": "昆明温德姆至尊豪廷大酒店",
+      "area": "官渡区春城路",
+      "price_per_night": 600,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "商务",
+        "泳池"
+      ],
+      "description": "市中心地标五星酒店，毗邻金马碧鸡坊，含行政酒廊与泳池，商务休闲皆宜。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_010",
+      "name": "石林县城便捷酒店（景区店）",
+      "area": "石林彝族自治县",
+      "price_per_night": 220,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "近景区",
+        "实惠"
+      ],
+      "description": "距石林风景区车程10分钟，方便早入园避开人流，县城烧烤夜宵丰富。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_011",
+      "name": "昆明滇池温泉花园酒店",
+      "area": "西山区滇池路",
+      "price_per_night": 500,
+      "stars": 4,
+      "tags": [
+        "中高端",
+        "温泉",
+        "亲子"
+      ],
+      "description": "自带温泉泡池与花园，临近海埂大坝，带娃家庭泡汤观鸥两不误。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_012",
+      "name": "昆明大学城悦华酒店（斗南店）",
+      "area": "呈贡区斗南",
+      "price_per_night": 240,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "花市",
+        "地铁旁"
+      ],
+      "description": "地铁1号线斗南站旁，逛完亚洲最大花市步行回酒店，适合爱花游客。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_013",
+      "name": "昆明翠湖宾馆",
+      "area": "五华区翠湖南路6号",
+      "price_per_night": 650,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "老牌",
+        "历史建筑"
+      ],
+      "description": "建于1956年的国宾馆，曾接待多位国家领导人，庭院式园林与翠湖相望，历史底蕴深厚。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_014",
+      "name": "昆明高铁南站亚朵酒店",
+      "area": "呈贡区昆明南站",
+      "price_per_night": 330,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "高铁站",
+        "转乘"
+      ],
+      "description": "紧邻昆明南站高铁枢纽，去石林、普者黑转乘方便，含接站服务。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_hotel_015",
+      "name": "昆明市区青年旅舍（翠湖店）",
+      "area": "五华区翠湖",
+      "price_per_night": 80,
+      "stars": 1,
+      "tags": [
+        "青旅",
+        "床位",
+        "学生党"
+      ],
+      "description": "翠湖边的国际青年旅舍，床位80元起，公共空间氛围好，适合背包客与穷游学生。",
+      "source": "人工整理",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.1",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending"
+  }
+}

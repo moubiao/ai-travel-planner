@@ -1,0 +1,352 @@
+{
+  "city": "kunming",
+  "city_name": "昆明",
+  "foods": [
+    {
+      "id": "km_food_001",
+      "name": "建新园过桥米线（宝善街店）",
+      "category": "米线",
+      "area": "五华区宝善街",
+      "price_per_person": 40,
+      "recommend_time": "午餐",
+      "tags": [
+        "米线",
+        "老字号",
+        "必打卡"
+      ],
+      "description": "昆明过桥米线百年老店，滚汤烫熟生片，鸡汤浓郁鲜香，配云南火腿与蔬菜拼盘，仪式感满满。",
+      "signature_dish": "经典过桥米线、汽锅鸡",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_002",
+      "name": "桥香园过桥米线（江岸店）",
+      "category": "米线",
+      "area": "五华区江岸小区",
+      "price_per_person": 35,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "米线",
+        "连锁",
+        "实惠"
+      ],
+      "description": "云南人从小吃到大的过桥米线连锁，汤底鲜、配料足，性价比高，分量实在。",
+      "signature_dish": "状元过桥米线、卤饵块",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_003",
+      "name": "福照楼汽锅鸡（南屏街店）",
+      "category": "云南菜",
+      "area": "五华区南屏街",
+      "price_per_person": 90,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "云南菜",
+        "汽锅鸡",
+        "老字号"
+      ],
+      "description": "昆明汽锅鸡名店，建水紫陶汽锅隔水蒸制3小时，鸡汤清甜原汁原味，配滇味凉菜一绝。",
+      "signature_dish": "汽锅鸡、凉拌折耳根",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_004",
+      "name": "嘉华鲜花饼（南屏街旗舰店）",
+      "category": "糕点",
+      "area": "五华区南屏街",
+      "price_per_person": 30,
+      "recommend_time": "全天（伴手礼）",
+      "tags": [
+        "糕点",
+        "伴手礼",
+        "必打卡"
+      ],
+      "description": "云南最知名的鲜花饼品牌，现烤玫瑰饼酥皮薄脆、花香馥郁，店内还有鲜花月饼、云腿饼可作伴手礼。",
+      "signature_dish": "现烤玫瑰鲜花饼、云腿月饼",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_005",
+      "name": "官渡粑粑（官渡古镇）",
+      "category": "小吃",
+      "area": "官渡区官渡古镇",
+      "price_per_person": 10,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "古镇",
+        "传统"
+      ],
+      "description": "官渡古镇标志性小吃，炭火烤制的麦面粑粑外脆内软，花生糖心与豆沙两种口味，出炉即抢。",
+      "signature_dish": "胡麻粑粑、豆沙粑粑",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_006",
+      "name": "豆花米线（篆新农贸市场）",
+      "category": "米线",
+      "area": "五华区篆新市场",
+      "price_per_person": 15,
+      "recommend_time": "早餐/午餐",
+      "tags": [
+        "米线",
+        "市井",
+        "平价"
+      ],
+      "description": "昆明人的早餐灵魂，嫩豆花铺在米线上，浇甜咸酱油、辣椒油，配杂酱肉末，一口入魂。",
+      "signature_dish": "豆花米线、木瓜水",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_007",
+      "name": "小锅米线（端仕街店）",
+      "category": "米线",
+      "area": "五华区端仕街",
+      "price_per_person": 15,
+      "recommend_time": "早餐/午餐",
+      "tags": [
+        "米线",
+        "老店",
+        "市井"
+      ],
+      "description": "铜锅现煮的小锅米线，酸腌菜+猪肉末+韭菜的经典组合，酸辣鲜香，昆明味觉记忆。",
+      "signature_dish": "小锅米线、卤味拼盘",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_008",
+      "name": "炸洋芋（南强街夜市）",
+      "category": "小吃",
+      "area": "五华区南强街",
+      "price_per_person": 10,
+      "recommend_time": "下午/夜宵",
+      "tags": [
+        "小吃",
+        "夜市",
+        "平价"
+      ],
+      "description": "云南人的灵魂小吃，洋芋炸至金黄外脆里糯，拌折耳根、辣椒面与香菜，越吃越上瘾。",
+      "signature_dish": "麻辣炸洋芋、香辣豆腐",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_009",
+      "name": "卤鸡米线（篆新店）",
+      "category": "米线",
+      "area": "五华区篆新市场",
+      "price_per_person": 20,
+      "recommend_time": "午餐",
+      "tags": [
+        "米线",
+        "卤鸡",
+        "平价"
+      ],
+      "description": "红河风味卤鸡米线，卤鸡皮黄肉嫩，配鸡汤米线与蘸水，鲜香爽口。",
+      "signature_dish": "卤鸡米线、卤鸡腿",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_010",
+      "name": "稀豆粉（翠湖周边）",
+      "category": "小吃",
+      "area": "五华区翠湖南路",
+      "price_per_person": 12,
+      "recommend_time": "早餐",
+      "tags": [
+        "小吃",
+        "传统",
+        "早餐"
+      ],
+      "description": "豌豆磨浆熬制的糊状小吃，口感细腻顺滑，配油条或饵块蘸食，是保山德宏一带的传统早点。",
+      "signature_dish": "稀豆粉配油条、烧饵块",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_011",
+      "name": "野生菌火锅（菌王山珍关兴路店）",
+      "category": "火锅",
+      "area": "官渡区关兴路",
+      "price_per_person": 150,
+      "recommend_time": "晚餐（6-9月菌季最佳）",
+      "tags": [
+        "火锅",
+        "野生菌",
+        "云南特色",
+        "必打卡"
+      ],
+      "description": "云南夏季限定美味，鸡枞、牛肝菌、青头菌等十余种野生菌入鸡汤锅，汤鲜菌嫩，菌子要煮足时间才能吃。",
+      "signature_dish": "野生菌拼盘、菌汤泡饭",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_012",
+      "name": "多哥水傣味餐厅",
+      "category": "云南菜",
+      "area": "五华区东风西路",
+      "price_per_person": 70,
+      "recommend_time": "午餐/晚餐",
+      "tags": [
+        "傣味",
+        "酸辣",
+        "特色"
+      ],
+      "description": "昆明口碑傣味餐厅，香茅草烤鱼、酸笋牛肉、菠萝紫米饭，酸辣开胃，体验西双版纳风味。",
+      "signature_dish": "香茅草烤鱼、舂鸡脚、菠萝饭",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_013",
+      "name": "烧饵块（街头摊）",
+      "category": "小吃",
+      "area": "昆明街头（南屏街常见）",
+      "price_per_person": 8,
+      "recommend_time": "早餐/全天",
+      "tags": [
+        "小吃",
+        "街头",
+        "平价"
+      ],
+      "description": "云南传统早点，糯米饵块炭火烤泡，抹甜酱辣酱夹油条，软糯咸香，5元一个超满足。",
+      "signature_dish": "甜辣酱烧饵块、夹油条饵块",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_014",
+      "name": "破酥包（老面破酥包店）",
+      "category": "小吃",
+      "area": "五华区文明街",
+      "price_per_person": 5,
+      "recommend_time": "早餐",
+      "tags": [
+        "小吃",
+        "老字号",
+        "面点"
+      ],
+      "description": "昆明百年面点，外皮层层起酥、入口化渣，鲜肉馅与糖腿馅最经典，文明街老店日日排队。",
+      "signature_dish": "鲜肉破酥包、糖腿破酥包",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_015",
+      "name": "建水烧豆腐（篆新市场）",
+      "category": "小吃",
+      "area": "五华区篆新市场",
+      "price_per_person": 25,
+      "recommend_time": "下午/夜宵",
+      "tags": [
+        "小吃",
+        "夜市",
+        "蘸水"
+      ],
+      "description": "建水古城风味，炭火慢烤小方豆腐，外焦里嫩，蘸干碟湿碟皆宜，配一杯木瓜水解辣。",
+      "signature_dish": "烧豆腐、烤猪脚",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_016",
+      "name": "木瓜水（南强街）",
+      "category": "饮品",
+      "area": "五华区南强街",
+      "price_per_person": 8,
+      "recommend_time": "全天",
+      "tags": [
+        "饮品",
+        "甜品",
+        "解暑"
+      ],
+      "description": "云南传统消暑饮品，假酸浆籽搓出的冰粉配红糖玫瑰糖浆，清凉爽滑，夏天逛街必备。",
+      "signature_dish": "木瓜水、玫瑰糖凉虾",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_017",
+      "name": "舂鸡脚（傣味小摊）",
+      "category": "小吃",
+      "area": "五华区南强街夜市",
+      "price_per_person": 20,
+      "recommend_time": "夜宵",
+      "tags": [
+        "傣味",
+        "酸辣",
+        "夜市"
+      ],
+      "description": "石臼舂出的傣味鸡脚，柠檬、小米辣、香茅、花生碎多重香气碰撞，酸辣过瘾，开胃神器。",
+      "signature_dish": "舂鸡脚、舂木瓜",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_018",
+      "name": "抓抓粉（篆新市场）",
+      "category": "小吃",
+      "area": "五华区篆新市场",
+      "price_per_person": 12,
+      "recommend_time": "全天",
+      "tags": [
+        "小吃",
+        "凉粉",
+        "酸辣"
+      ],
+      "description": "手工漏制的凉粉条Q弹爽滑，浇酸辣汤汁与花生碎，一口清爽，夏日解腻神器。",
+      "signature_dish": "酸辣抓抓粉、凉米线",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_019",
+      "name": "云腿月饼（吉庆祥）",
+      "category": "糕点",
+      "area": "五华区（多分店）",
+      "price_per_person": 15,
+      "recommend_time": "全天（伴手礼）",
+      "tags": [
+        "糕点",
+        "老字号",
+        "伴手礼"
+      ],
+      "description": "百年老字号吉庆祥的云腿月饼，宣威火腿配蜂蜜白糖，咸甜交融，云南中秋名点，四季有售。",
+      "signature_dish": "云腿月饼、鲜花饼",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "km_food_020",
+      "name": "南强街夜市",
+      "category": "小吃街",
+      "area": "五华区南强街",
+      "price_per_person": 50,
+      "recommend_time": "晚餐/夜宵",
+      "tags": [
+        "小吃街",
+        "夜市",
+        "年轻人"
+      ],
+      "description": "昆明市中心人气夜市，傣味烧烤、炸洋芋、舂鸡脚、烤乳扇等云南小吃一网打尽，夜市氛围浓。",
+      "signature_dish": "烤乳扇、傣味烧烤、舂鸡脚",
+      "source": "人工整理",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.1",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending"
+  }
+}

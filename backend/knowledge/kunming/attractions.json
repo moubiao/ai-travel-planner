@@ -1,0 +1,746 @@
+{
+  "city": "kunming",
+  "city_name": "昆明",
+  "attractions": [
+    {
+      "id": "km_att_001",
+      "name": "石林风景区",
+      "category": "自然风光",
+      "location": "石林彝族自治县石林大道",
+      "coordinates": [
+        103.325701,
+        24.812964
+      ],
+      "open_time": "07:30-18:00",
+      "ticket": 130,
+      "recommend_season": "全年（雨后可观云雾）",
+      "visit_duration": "4-6小时",
+      "tags": [
+        "自然风光",
+        "世界遗产",
+        "必打卡",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "世界自然遗产、天下第一奇观，喀斯特地貌石林群峰拔地而起，阿诗玛传说发源地，是昆明最负盛名的景点。",
+      "transport": "昆明南站乘高铁至石林西站约20分钟，再转景区巴士",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_002",
+      "name": "滇池海埂大坝",
+      "category": "自然风光",
+      "location": "西山区湖滨路",
+      "coordinates": [
+        102.6498,
+        24.9732
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "11-3月（红嘴鸥）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "自然风光",
+        "观鸥",
+        "拍照",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "五百里滇池畔的观景长廊，冬季成千上万红嘴鸥在此越冬，喂鸥拍照是昆明冬天最浪漫的体验。",
+      "transport": "市区乘44路/73路公交或打车约40分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_003",
+      "name": "西山龙门",
+      "category": "自然风光",
+      "location": "西山区西山森林公园",
+      "coordinates": [
+        102.6351,
+        24.9652
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 40,
+      "recommend_season": "全年（观滇池日落）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "自然风光",
+        "历史文化",
+        "户外",
+        "观景"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "滇池西岸的睡美人山，龙门石窟凿于悬崖绝壁，登顶可俯瞰滇池全景与昆明城，'三月三耍西山'是昆明民俗。",
+      "transport": "滇池索道直达西山（海埂公园站乘索道）",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_004",
+      "name": "云南民族村",
+      "category": "历史文化",
+      "location": "西山区滇池路1310号",
+      "coordinates": [
+        102.6642,
+        24.9622
+      ],
+      "open_time": "09:00-18:00",
+      "ticket": 90,
+      "recommend_season": "全年（泼水节等民族节日）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "民族文化",
+        "亲子",
+        "表演"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "25个少数民族村寨的浓缩展示，傣族泼水、白族扎染、彝族火把节等民俗表演轮番上演，一天看遍云南民族风情。",
+      "transport": "地铁5号线渔户村站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_005",
+      "name": "大观楼",
+      "category": "历史文化",
+      "location": "西山区大观路284号",
+      "coordinates": [
+        102.673887,
+        25.024196
+      ],
+      "open_time": "08:00-19:00",
+      "ticket": 20,
+      "recommend_season": "全年（11-3月观鸥）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "城市休闲",
+        "观鸥"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "滇池北岸的千年名楼，悬挂'天下第一长联'——孙髯翁180字大观楼长联，登楼可赏滇池风光。",
+      "transport": "地铁3号线五一路站转公交；打车约20分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_006",
+      "name": "翠湖公园",
+      "category": "城市休闲",
+      "location": "五华区翠湖南路67号",
+      "coordinates": [
+        102.7006,
+        25.0456
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年（冬观鸥、夏赏荷）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "城市休闲",
+        "观鸥",
+        "亲子",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "昆明城中心的'城中碧玉'，冬季红嘴鸥云集，周边聚集讲武堂、云南大学等历史建筑，是昆明人最爱的休闲地。",
+      "transport": "地铁3号线五一路站步行15分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_007",
+      "name": "云南陆军讲武堂旧址",
+      "category": "历史文化",
+      "location": "五华区翠湖西路22号",
+      "coordinates": [
+        102.6972,
+        25.0467
+      ],
+      "open_time": "09:00-16:30（周一闭馆）",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "历史文化",
+        "室内",
+        "免费"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "中国近代史上著名的军事院校，朱德、叶剑英曾在此求学，黄色中西合璧建筑是昆明地标，展览再现护国运动历史。",
+      "transport": "地铁3号线五一路站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_008",
+      "name": "金马碧鸡坊",
+      "category": "历史文化",
+      "location": "五华区金碧路",
+      "coordinates": [
+        102.7125,
+        25.0351
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年（中秋日月交辉奇观）",
+      "visit_duration": "1小时",
+      "tags": [
+        "城市地标",
+        "夜生活",
+        "购物"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "昆明城市象征，金马坊与碧鸡坊相对而立，传说中秋傍晚两坊影子可相交。周边商业街繁华，夜市热闹。",
+      "transport": "地铁3号线五一路站步行10分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_009",
+      "name": "官渡古镇",
+      "category": "历史文化",
+      "location": "官渡区云秀路",
+      "coordinates": [
+        102.755581,
+        24.955125
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "古镇",
+        "美食",
+        "历史文化"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "千年滇池古渡口，金刚塔、妙湛寺等古建筑保存完好，官渡粑粑、凉粉等小吃地道，烟火气十足。",
+      "transport": "地铁1号线星耀路站步行15分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_010",
+      "name": "昆明世博园",
+      "category": "自然风光",
+      "location": "盘龙区世博路10号",
+      "coordinates": [
+        102.7687,
+        25.0739
+      ],
+      "open_time": "08:30-17:30",
+      "ticket": 100,
+      "recommend_season": "3-10月（花卉展）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "自然风光",
+        "亲子",
+        "花卉"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "1999年世界园艺博览会会址，中国馆、国际馆与各国园林荟萃，花海与园林景观四季不同。",
+      "transport": "地铁5号线世博园站直达",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_011",
+      "name": "云南大学（东陆校区）",
+      "category": "城市休闲",
+      "location": "五华区翠湖北路2号",
+      "coordinates": [
+        102.7024,
+        25.0589
+      ],
+      "open_time": "全天开放（需登记）",
+      "ticket": 0,
+      "recommend_season": "全年（3月樱花、秋季银杏）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "城市休闲",
+        "历史建筑",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "百年名校，会泽院、至公堂等中西合璧老建筑与银杏道、樱花道构成最美校园，紧邻翠湖。",
+      "transport": "地铁3号线潘家湾站步行20分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_012",
+      "name": "圆通禅寺",
+      "category": "历史文化",
+      "location": "五华区圆通街30号",
+      "coordinates": [
+        102.711862,
+        25.051477
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 6,
+      "recommend_season": "全年（3月圆通樱潮）",
+      "visit_duration": "1小时",
+      "tags": [
+        "历史文化",
+        "宗教",
+        "寺庙"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "昆明最古老的佛教寺院，建于唐代，'圆通胜境'牌坊与放生池古意盎然，每年春季圆通山樱花烂漫。",
+      "transport": "地铁2号线穿心鼓楼站步行10分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_013",
+      "name": "金殿风景区",
+      "category": "历史文化",
+      "location": "盘龙区穿金路金殿森林公园",
+      "coordinates": [
+        102.7673,
+        25.0819
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 20,
+      "recommend_season": "全年（冬季赏茶花）",
+      "visit_duration": "2小时",
+      "tags": [
+        "历史文化",
+        "自然风光",
+        "宗教"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "明代铜铸太和宫金殿，全部构件用青铜铸成、重约250吨，是中国最大铜殿，森林公园林木葱郁。",
+      "transport": "地铁2号线白云路站转公交；打车约25分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_014",
+      "name": "黑龙潭公园",
+      "category": "自然风光",
+      "location": "盘龙区黑龙潭景区",
+      "coordinates": [
+        102.750883,
+        25.142033
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 20,
+      "recommend_season": "全年（冬季梅花节）",
+      "visit_duration": "2小时",
+      "tags": [
+        "自然风光",
+        "古树",
+        "梅花"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "以唐梅、宋柏、元杉'三异木'闻名，黑龙潭清水与浑水潭两潭相依，冬季梅花盛开时游人如织。",
+      "transport": "地铁2号线龙头街站转公交；打车约30分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_015",
+      "name": "昆明植物园",
+      "category": "自然风光",
+      "location": "盘龙区蓝黑路132号",
+      "coordinates": [
+        102.742754,
+        25.137912
+      ],
+      "open_time": "08:30-17:30",
+      "ticket": 10,
+      "recommend_season": "2-4月（山茶花）",
+      "visit_duration": "2小时",
+      "tags": [
+        "自然风光",
+        "亲子",
+        "花卉"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "中科院昆明植物研究所植物园，山茶园、枫香大道四季有景，可科普云南植物多样性。",
+      "transport": "地铁2号线龙头街站转公交；打车约30分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_016",
+      "name": "九乡风景区",
+      "category": "自然风光",
+      "location": "宜良县九乡彝族回族乡",
+      "coordinates": [
+        103.370899,
+        25.080922
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 90,
+      "recommend_season": "全年（洞内恒温，雨天首选）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "自然风光",
+        "溶洞",
+        "室内",
+        "亲子"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "'不游九乡，枉来云南'，雄狮厅、神女宫等上百个溶洞相连，暗河峡谷与钙化梯田壮观，雨天游玩不受影响。",
+      "transport": "昆明东部客运站乘大巴至宜良县转景区车；自驾约1.5小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_017",
+      "name": "轿子雪山",
+      "category": "自然风光",
+      "location": "禄劝彝族苗族自治县乌蒙乡",
+      "coordinates": [
+        102.851428,
+        26.0864
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 84,
+      "recommend_season": "11-4月（雪景）",
+      "visit_duration": "1天",
+      "tags": [
+        "户外",
+        "自然风光",
+        "雪山",
+        "冬季"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "滇中第一峰，因山形似轿子得名，冬季冰雪覆盖、杜鹃林海与天池交相辉映，需乘索道登顶。",
+      "transport": "昆明北部客运站乘大巴约3小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_018",
+      "name": "东川红土地",
+      "category": "自然风光",
+      "location": "东川区新田乡",
+      "coordinates": [
+        103.060354,
+        25.901363
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "4-6月、9-11月（色彩最艳）",
+      "visit_duration": "1天",
+      "tags": [
+        "自然风光",
+        "摄影",
+        "网红",
+        "户外"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "世界级摄影胜地，红土地与绿油油的庄稼构成绚丽色块，落霞沟、打马坎是经典拍摄点，日出日落绝美。",
+      "transport": "昆明北部客运站乘大巴约3小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_019",
+      "name": "安宁温泉",
+      "category": "城市休闲",
+      "location": "安宁市温泉镇",
+      "coordinates": [
+        102.450837,
+        24.960077
+      ],
+      "open_time": "各家温泉开放时间不同（一般10:00-23:00）",
+      "ticket": 120,
+      "recommend_season": "10-3月（冬季泡汤）",
+      "visit_duration": "半天",
+      "tags": [
+        "温泉",
+        "休闲",
+        "康养"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "'天下第一汤'安宁温泉，碳酸泉水质优良，周边有曹溪寺等古迹，泡汤+品茶是昆明人的康养方式。",
+      "transport": "昆明西部客运站乘大巴约40分钟；自驾约1小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_020",
+      "name": "斗南花市",
+      "category": "购物",
+      "location": "呈贡区斗南街道",
+      "coordinates": [
+        102.7865,
+        24.901818
+      ],
+      "open_time": "全天（夜间交易20:00后最热闹）",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "购物",
+        "花卉",
+        "夜生活",
+        "网红"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "亚洲最大的鲜花交易市场，玫瑰、百合按斤卖，10元一大把，晚市拍卖大厅最壮观，可现场邮寄鲜花。",
+      "transport": "地铁1号线/4号线斗南站直达",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_021",
+      "name": "海埂公园",
+      "category": "城市休闲",
+      "location": "西山区滇池路1318号",
+      "coordinates": [
+        102.658412,
+        24.958925
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "11-3月（观鸥）",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "城市休闲",
+        "亲子",
+        "骑行",
+        "观鸥"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "滇池边老牌公园，可骑行环湖东路、乘游船游滇池，与海埂大坝相连，适合全家休闲。",
+      "transport": "地铁5号线渔户村站步行15分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_022",
+      "name": "捞渔河湿地公园",
+      "category": "自然风光",
+      "location": "呈贡区环湖东路",
+      "coordinates": [
+        102.769657,
+        24.822016
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "4-6月（郁金香）、夏季（水上森林）",
+      "visit_duration": "2小时",
+      "tags": [
+        "自然风光",
+        "亲子",
+        "网红",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "滇池东岸湿地，春夏郁金香花海与水杉林栈道是网红打卡地，骑行与野餐都很惬意。",
+      "transport": "地铁1号线大学城站转公交；自驾约40分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_023",
+      "name": "云南省博物馆",
+      "category": "历史文化",
+      "location": "官渡区广福路6393号",
+      "coordinates": [
+        102.753517,
+        24.949455
+      ],
+      "open_time": "09:00-17:00（周一闭馆）",
+      "ticket": 0,
+      "recommend_season": "全年（雨天首选）",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "历史文化",
+        "室内",
+        "免费",
+        "亲子"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "滇文化藏品全国最全，牛虎铜案、滇王之印等国宝级文物不容错过，全面展现古滇国与云南民族历史。",
+      "transport": "地铁1号线星耀路站步行15分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_024",
+      "name": "云南民族博物馆",
+      "category": "历史文化",
+      "location": "西山区滇池路1503号",
+      "coordinates": [
+        102.6692,
+        24.965068
+      ],
+      "open_time": "09:30-16:30（周一闭馆）",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "民族文化",
+        "室内",
+        "免费"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "中国最大的民族类博物馆，服饰、银器、面具等民族文物4万余件，可深入了解云南26个民族风情。",
+      "transport": "地铁5号线渔户村站步行10分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_025",
+      "name": "圆通山昆明动物园",
+      "category": "城市休闲",
+      "location": "五华区青年路92号",
+      "coordinates": [
+        102.7145,
+        25.0511
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 20,
+      "recommend_season": "全年（3月樱花）",
+      "visit_duration": "2小时",
+      "tags": [
+        "亲子",
+        "动物园",
+        "樱花"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "昆明老牌动物园，每年3月'圆通樱潮'樱花怒放，是全国闻名的赏樱胜地，带娃逛园两不误。",
+      "transport": "地铁2号线穿心鼓楼站步行8分钟",
+      "source": "人工整理",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_026",
+      "name": "古滇名城",
+      "category": "城市休闲",
+      "location": "晋宁区环湖南路18号",
+      "coordinates": [
+        102.734556,
+        24.766441
+      ],
+      "open_time": "09:30-21:00",
+      "ticket": 180,
+      "recommend_season": "全年（夏季水上项目）",
+      "visit_duration": "半天-1天",
+      "tags": [
+        "亲子",
+        "主题乐园",
+        "滇池"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "滇池南岸的大型文旅小镇，欢乐世界主题乐园+古滇湿地+温泉度假区，适合家庭一站式游玩。",
+      "transport": "昆明南部客运站乘景区专线；自驾约1小时",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_027",
+      "name": "花之城",
+      "category": "购物",
+      "location": "盘龙区金瓦路8188号",
+      "coordinates": [
+        102.789368,
+        25.05415
+      ],
+      "open_time": "08:00-20:00",
+      "ticket": 50,
+      "recommend_season": "全年",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "花卉",
+        "购物",
+        "亲子",
+        "室内"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "昆明花卉主题商业综合体，巨型花海温室'花之城'适合拍照，配套商场与酒店，雨天也适合游玩。",
+      "transport": "地铁6号线东部客运站转公交；打车约30分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_028",
+      "name": "阳宗海",
+      "category": "自然风光",
+      "location": "宜良县/澄江市交界",
+      "coordinates": [
+        103.00313,
+        24.912227
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "4-10月（水上运动）",
+      "visit_duration": "半天-1天",
+      "tags": [
+        "自然风光",
+        "户外",
+        "水上运动"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "云南第三大淡水湖，水质清澈，湖畔有高尔夫球场与温泉酒店，帆船、皮划艇等水上运动人气渐旺。",
+      "transport": "昆明东部客运站乘大巴约1小时；自驾约50分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_029",
+      "name": "西游洞",
+      "category": "自然风光",
+      "location": "五华区昆禄公路6公里处",
+      "coordinates": [
+        102.641068,
+        25.139821
+      ],
+      "open_time": "08:30-17:30",
+      "ticket": 90,
+      "recommend_season": "全年（洞内恒温）",
+      "visit_duration": "2小时",
+      "tags": [
+        "溶洞",
+        "室内",
+        "亲子",
+        "趣味"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "以《西游记》为主题的喀斯特溶洞景区，洞内钟乳石千姿百态，配合灯光秀与主题雕塑，适合带娃探洞。",
+      "transport": "昆明市区乘C1路公交；打车约30分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "km_att_030",
+      "name": "长虫山",
+      "category": "自然风光",
+      "location": "五华区北郊",
+      "coordinates": [
+        102.709983,
+        25.126335
+      ],
+      "open_time": "全天开放（建议白天登山）",
+      "ticket": 0,
+      "recommend_season": "3-11月（晴天看夜景）",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "户外",
+        "登山",
+        "夜景",
+        "拍照"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "昆明北郊经典登山路线，山顶视野开阔，可360度俯瞰昆明城区与滇池，日落和夜景极美，徒步爱好者必去。",
+      "transport": "地铁2号线龙头街站转公交至龙泉路；打车约30分钟",
+      "source": "人工整理+高德POI校正",
+      "verified_at": "2026-08-13"
+    }
+  ],
+  "meta": {
+    "version": "1.1",
+    "updated_at": "2026-08-13",
+    "verify_status": "verified",
+    "verified_at": "2026-08-13"
+  }
+}

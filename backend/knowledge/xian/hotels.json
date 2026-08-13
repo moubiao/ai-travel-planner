@@ -1,0 +1,222 @@
+{
+  "city": "xian",
+  "city_name": "西安",
+  "hotels": [
+    {
+      "id": "xa_hotel_001",
+      "name": "西安钟楼亚朵S酒店",
+      "area": "碑林区（钟楼/城墙）",
+      "price_per_night": 450,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "位置优越"
+      ],
+      "description": "位于钟楼附近，步行可达回民街和城墙，设计现代，服务贴心，适合商务和旅游。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_002",
+      "name": "西安大雁塔美居酒店",
+      "area": "雁塔区（大雁塔/大唐不夜城）",
+      "price_per_night": 380,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "景区周边"
+      ],
+      "description": "毗邻大雁塔和大唐不夜城，法式轻奢风格，房间舒适，交通便利，夜晚可赏音乐喷泉。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_003",
+      "name": "西安回民街全季酒店",
+      "area": "莲湖区（回民街）",
+      "price_per_night": 280,
+      "stars": 3,
+      "tags": [
+        "经济型",
+        "美食街"
+      ],
+      "description": "位于回民街入口，出门即美食，房间简洁干净，性价比高，适合吃货和背包客。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_004",
+      "name": "西安临潼悦椿温泉酒店",
+      "area": "临潼区（兵马俑/华清宫）",
+      "price_per_night": 800,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "温泉度假"
+      ],
+      "description": "近华清宫，拥有天然温泉，园林式设计，设施豪华，适合度假放松，体验唐风雅韵。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_005",
+      "name": "西安高新希尔顿酒店",
+      "area": "雁塔区（高新区）",
+      "price_per_night": 650,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "商务"
+      ],
+      "description": "位于高新商务区，国际品牌，客房宽敞，配套完善，适合高端商务和会议。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_006",
+      "name": "西安城墙南门亚朵酒店",
+      "area": "碑林区（南门）",
+      "price_per_night": 420,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "城墙景观"
+      ],
+      "description": "紧邻南门城墙，部分房间可眺望古城墙，设计融合现代与古韵，出行便捷。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_007",
+      "name": "西安大唐不夜城智选假日酒店",
+      "area": "雁塔区（大唐不夜城）",
+      "price_per_night": 350,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "景区周边"
+      ],
+      "description": "步行即达大唐不夜城，国际连锁品牌，干净舒适，早餐丰富，性价比高。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_008",
+      "name": "西安北站维也纳酒店",
+      "area": "未央区（北客站）",
+      "price_per_night": 260,
+      "stars": 3,
+      "tags": [
+        "经济型",
+        "交通枢纽"
+      ],
+      "description": "距西安北站步行10分钟，适合高铁出行，房间温馨，提供接送站服务。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_009",
+      "name": "西安白鹿原民宿",
+      "area": "灞桥区（白鹿原）",
+      "price_per_night": 180,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "特色民宿"
+      ],
+      "description": "位于白鹿原影视城附近，关中民居风格，体验原生态乡村生活，适合自驾游。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_010",
+      "name": "西安蓝田汤峪温泉酒店",
+      "area": "蓝田县",
+      "price_per_night": 300,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "温泉"
+      ],
+      "description": "近汤峪温泉，环境清幽，房间带独立汤池，适合周末休闲，远离城市喧嚣。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_011",
+      "name": "西安钟楼如家精选酒店",
+      "area": "碑林区（钟楼）",
+      "price_per_night": 220,
+      "stars": 3,
+      "tags": [
+        "经济型",
+        "位置优越"
+      ],
+      "description": "位于钟楼商圈，步行可至回民街和鼓楼，设施新，服务好，性价比高。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_012",
+      "name": "西安曲江银泰假日酒店",
+      "area": "雁塔区（曲江）",
+      "price_per_night": 500,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "商务度假"
+      ],
+      "description": "地处曲江新区，毗邻大唐芙蓉园，客房典雅，配套齐全，适合商务和家庭。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_013",
+      "name": "西安未央湖锦江之星",
+      "area": "未央区（未央湖）",
+      "price_per_night": 150,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "经济连锁"
+      ],
+      "description": "经济连锁品牌，干净卫生，价格实惠，靠近未央湖公园，适合预算有限的旅客。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_014",
+      "name": "西安临潼兵马俑华清宫民宿",
+      "area": "临潼区（兵马俑）",
+      "price_per_night": 200,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "景区周边"
+      ],
+      "description": "靠近兵马俑博物馆，农家小院风格，提供当地特色早餐，老板热情，可代订门票。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_hotel_015",
+      "name": "西安高新洲际酒店",
+      "area": "雁塔区（高新区）",
+      "price_per_night": 1200,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "奢华"
+      ],
+      "description": "国际奢华品牌，位于高新核心区，设计现代，服务一流，拥有高空景观和顶级餐饮。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

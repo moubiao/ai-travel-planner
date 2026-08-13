@@ -1,0 +1,180 @@
+{
+  "city": "chongqing",
+  "city_name": "重庆",
+  "hotels": [
+    {
+      "id": "cq_hotel_001",
+      "name": "重庆解放碑威斯汀酒店",
+      "area": "渝中区（解放碑）",
+      "price_per_night": 1200,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "地标"
+      ],
+      "description": "坐落于解放碑商圈，俯瞰两江夜景，客房现代奢华，步行可达洪崖洞，尽享山城繁华。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_002",
+      "name": "重庆国贸格兰维大酒店",
+      "area": "渝中区（解放碑）",
+      "price_per_night": 680,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "商务"
+      ],
+      "description": "位于解放碑核心，交通便利，客房宽敞明亮，设有高空观景餐厅，可赏渝中半岛美景。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_003",
+      "name": "重庆洪崖洞大酒店",
+      "area": "渝中区（洪崖洞）",
+      "price_per_night": 550,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "景点"
+      ],
+      "description": "紧邻洪崖洞景区，吊脚楼风格建筑，部分房间可观江景，出门即达网红打卡地。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_004",
+      "name": "重庆观音桥智选假日酒店",
+      "area": "江北区（观音桥）",
+      "price_per_night": 350,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "商圈"
+      ],
+      "description": "位于观音桥步行街旁，出行购物便利，房间简洁舒适，适合商务及休闲旅客。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_005",
+      "name": "重庆江北希尔顿逸林酒店",
+      "area": "江北区（观音桥）",
+      "price_per_night": 780,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "国际"
+      ],
+      "description": "国际品牌，服务周到，客房典雅，设有室内泳池和健身中心，近观音桥商圈。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_006",
+      "name": "重庆南山·山鬼酒店",
+      "area": "南岸区（南山）",
+      "price_per_night": 420,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "民宿"
+      ],
+      "description": "位于南山风景区，环境清幽，设计感强，可观山城夜景，适合度假放松。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_007",
+      "name": "重庆弹子石长嘉汇亚朵酒店",
+      "area": "南岸区（弹子石）",
+      "price_per_night": 480,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "江景"
+      ],
+      "description": "地处长嘉汇购物公园，部分房间可看两江交汇，亚朵品质服务，出行便捷。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_008",
+      "name": "重庆磁器口古镇客栈",
+      "area": "沙坪坝区（磁器口）",
+      "price_per_night": 260,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "古镇"
+      ],
+      "description": "位于磁器口古镇内，传统巴渝风格装修，体验古镇慢生活，性价比高。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_009",
+      "name": "重庆大学城智选假日酒店",
+      "area": "沙坪坝区（大学城）",
+      "price_per_night": 280,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "大学城"
+      ],
+      "description": "近重庆大学等高校，周边餐饮丰富，房间干净整洁，适合学生及商务出行。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_010",
+      "name": "重庆杨家坪全季酒店",
+      "area": "九龙坡区",
+      "price_per_night": 320,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "商圈"
+      ],
+      "description": "位于杨家坪商圈，交通便利，全季简约风格，设施齐全，性价比高。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_011",
+      "name": "重庆渝北区维也纳国际酒店",
+      "area": "渝北区",
+      "price_per_night": 300,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "机场"
+      ],
+      "description": "靠近重庆江北机场，提供免费接送机服务，客房舒适，适合转机旅客。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "cq_hotel_012",
+      "name": "武隆仙女山华邦酒店",
+      "area": "远郊（武隆喀斯特）",
+      "price_per_night": 450,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "景区"
+      ],
+      "description": "位于仙女山国家森林公园内，环境优美，夏季避暑冬季滑雪，度假首选。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

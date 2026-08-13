@@ -1,0 +1,152 @@
+{
+  "city": "dali",
+  "city_name": "大理",
+  "hotels": [
+    {
+      "id": "dl_hotel_001",
+      "name": "大理古城青年旅舍",
+      "area": "大理古城",
+      "price_per_night": 180,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "古城"
+      ],
+      "description": "位于古城内，白族庭院式建筑，氛围轻松，适合背包客，提供多人间和标间。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_002",
+      "name": "大理古城慢生活客栈",
+      "area": "大理古城",
+      "price_per_night": 220,
+      "stars": 2,
+      "tags": [
+        "经济型",
+        "古城"
+      ],
+      "description": "安静的小院，步行可达人民路和洋人街，房间干净舒适，老板热情，可拼餐。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_003",
+      "name": "大理洱海门客栈",
+      "area": "大理古城",
+      "price_per_night": 260,
+      "stars": 3,
+      "tags": [
+        "经济型",
+        "古城"
+      ],
+      "description": "靠近洱海门，交通便利，屋顶可看苍山，房间简约，提供免费早餐。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_004",
+      "name": "大理下关全季酒店",
+      "area": "下关市区",
+      "price_per_night": 320,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "市区"
+      ],
+      "description": "连锁品牌，设施齐全，服务标准，位于市中心，出行购物方便，适合商务和家庭。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_005",
+      "name": "大理才村洱海精品客栈",
+      "area": "洱海周边（才村）",
+      "price_per_night": 380,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "海景"
+      ],
+      "description": "紧邻洱海，部分房间可看海，白族风格装修，有露台和茶室，安静惬意。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_006",
+      "name": "大理龙龛码头海景酒店",
+      "area": "洱海周边（龙龛）",
+      "price_per_night": 450,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "海景"
+      ],
+      "description": "位于龙龛码头，步行到洱海，房间宽敞，落地窗观景，提供自行车租赁。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_007",
+      "name": "大理喜洲古镇精品客栈",
+      "area": "喜洲古镇",
+      "price_per_night": 350,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "古镇"
+      ],
+      "description": "白族传统院落改造，保留原汁原味，靠近喜洲粑粑和稻田，体验当地生活。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_008",
+      "name": "大理双廊海地生活客栈",
+      "area": "双廊古镇",
+      "price_per_night": 580,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "海景"
+      ],
+      "description": "位于双廊，一线海景，设计感强，有公共露台和餐厅，适合度假和拍照。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_009",
+      "name": "大理双廊半岛云宿",
+      "area": "双廊古镇",
+      "price_per_night": 680,
+      "stars": 5,
+      "tags": [
+        "品质",
+        "海景"
+      ],
+      "description": "高端海景民宿，每间房都面朝洱海，配备浴缸和智能设备，服务贴心。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "dl_hotel_010",
+      "name": "大理沙溪古镇茶马古道客栈",
+      "area": "剑川县（沙溪古镇）",
+      "price_per_night": 520,
+      "stars": 4,
+      "tags": [
+        "品质",
+        "古镇"
+      ],
+      "description": "位于沙溪古镇，茶马古道上的驿站，院落古朴，环境清幽，适合深度游。",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

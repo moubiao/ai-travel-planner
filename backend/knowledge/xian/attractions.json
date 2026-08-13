@@ -1,0 +1,733 @@
+{
+  "city": "xian",
+  "city_name": "西安",
+  "attractions": [
+    {
+      "id": "xa_att_001",
+      "name": "秦始皇兵马俑博物馆",
+      "category": "博物馆",
+      "location": "临潼区秦陵北路",
+      "coordinates": [
+        109.275,
+        34.384
+      ],
+      "open_time": "08:30-17:30",
+      "ticket": 120,
+      "recommend_season": "全年",
+      "visit_duration": "3-4小时",
+      "tags": [
+        "世界遗产",
+        "历史",
+        "考古"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "世界第八大奇迹，秦代陶俑军阵，规模宏大，震撼人心。",
+      "transport": "地铁9号线至秦陵西站，或乘游5路公交",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_002",
+      "name": "华清宫",
+      "category": "人文古迹",
+      "location": "临潼区华清路38号",
+      "coordinates": [
+        109.214,
+        34.363
+      ],
+      "open_time": "07:00-19:00",
+      "ticket": 120,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "3小时",
+      "tags": [
+        "唐代",
+        "温泉",
+        "历史"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "唐代皇家园林，杨贵妃沐浴之地，背靠骊山，风景秀丽。",
+      "transport": "地铁9号线华清池站，或公交306路",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_003",
+      "name": "大雁塔",
+      "category": "人文古迹",
+      "location": "雁塔区雁塔南路",
+      "coordinates": [
+        108.964,
+        34.218
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 50,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "佛教",
+        "唐代",
+        "地标"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "玄奘译经之地，西安标志性古塔，登塔可俯瞰城市。",
+      "transport": "地铁3号线大雁塔站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_004",
+      "name": "大唐不夜城",
+      "category": "地标打卡",
+      "location": "雁塔区慈恩路",
+      "coordinates": [
+        108.962,
+        34.215
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "夜景",
+        "步行街",
+        "唐文化"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "以唐文化为主题的步行街，夜晚灯光璀璨，有各种表演。",
+      "transport": "地铁3号线大雁塔站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_005",
+      "name": "西安城墙",
+      "category": "人文古迹",
+      "location": "碑林区南大街",
+      "coordinates": [
+        108.948183,
+        34.2759
+      ],
+      "open_time": "08:00-22:00",
+      "ticket": 54,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "明代",
+        "骑行",
+        "古城"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "中国现存最完整的古城墙，可骑行或漫步，俯瞰古城风貌。",
+      "transport": "地铁2号线永宁门站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_006",
+      "name": "钟楼",
+      "category": "地标打卡",
+      "location": "碑林区东西南北大街交汇处",
+      "coordinates": [
+        108.94,
+        34.261
+      ],
+      "open_time": "08:30-21:30",
+      "ticket": 30,
+      "recommend_season": "全年",
+      "visit_duration": "1小时",
+      "tags": [
+        "明代",
+        "地标",
+        "夜景"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "西安市中心标志性建筑，明代钟楼，可登楼观景。",
+      "transport": "地铁2号线钟楼站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_007",
+      "name": "鼓楼",
+      "category": "地标打卡",
+      "location": "莲湖区北院门",
+      "coordinates": [
+        108.938,
+        34.262
+      ],
+      "open_time": "08:30-21:30",
+      "ticket": 30,
+      "recommend_season": "全年",
+      "visit_duration": "1小时",
+      "tags": [
+        "明代",
+        "鼓文化",
+        "回民街"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "与钟楼相望，古时击鼓报时，现为西安文化地标。",
+      "transport": "地铁2号线钟楼站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_008",
+      "name": "回民街",
+      "category": "地标打卡",
+      "location": "莲湖区北院门",
+      "coordinates": [
+        108.937,
+        34.263
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "美食",
+        "小吃",
+        "夜市"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "西安著名美食街，汇集各种回民小吃，热闹非凡。",
+      "transport": "地铁2号线钟楼站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_009",
+      "name": "陕西历史博物馆",
+      "category": "博物馆",
+      "location": "雁塔区小寨东路91号",
+      "coordinates": [
+        108.952,
+        34.225
+      ],
+      "open_time": "09:00-17:30",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "3小时",
+      "tags": [
+        "历史",
+        "文物",
+        "免费"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "馆藏丰富，展现陕西古代文明，需提前预约。",
+      "transport": "地铁2号线小寨站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_010",
+      "name": "西安碑林博物馆",
+      "category": "博物馆",
+      "location": "碑林区三学街15号",
+      "coordinates": [
+        108.948,
+        34.255
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 65,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "书法",
+        "石刻",
+        "历史"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "收藏历代碑石、墓志，书法艺术宝库。",
+      "transport": "公交14路或地铁2号线永宁门站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_011",
+      "name": "大明宫国家遗址公园",
+      "category": "人文古迹",
+      "location": "未央区自强东路",
+      "coordinates": [
+        108.96,
+        34.29
+      ],
+      "open_time": "08:30-18:00",
+      "ticket": 60,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "3小时",
+      "tags": [
+        "唐代",
+        "遗址",
+        "公园"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "唐代皇宫遗址，现为大型公园，可感受盛唐气象。",
+      "transport": "地铁4号线含元殿站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_012",
+      "name": "小雁塔",
+      "category": "人文古迹",
+      "location": "碑林区友谊西路72号",
+      "coordinates": [
+        108.945,
+        34.238
+      ],
+      "open_time": "09:00-17:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "佛教",
+        "唐代",
+        "免费"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "唐代古塔，环境清幽，与荐福寺同观。",
+      "transport": "地铁2号线南稍门站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_013",
+      "name": "西安博物院",
+      "category": "博物馆",
+      "location": "碑林区友谊西路72号",
+      "coordinates": [
+        108.944,
+        34.237
+      ],
+      "open_time": "09:00-17:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "历史",
+        "文物",
+        "免费"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "展示西安城市历史，与小雁塔相连。",
+      "transport": "地铁2号线南稍门站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_014",
+      "name": "大唐芙蓉园",
+      "category": "主题乐园",
+      "location": "雁塔区芙蓉西路99号",
+      "coordinates": [
+        108.975,
+        34.21
+      ],
+      "open_time": "09:00-22:00",
+      "ticket": 120,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "3小时",
+      "tags": [
+        "唐文化",
+        "园林",
+        "演出"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "仿唐皇家园林，有大型水幕电影和表演。",
+      "transport": "地铁4号线大唐芙蓉园站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_015",
+      "name": "曲江池遗址公园",
+      "category": "休闲公园",
+      "location": "雁塔区曲江新区",
+      "coordinates": [
+        108.98,
+        34.2
+      ],
+      "open_time": "全天开放",
+      "ticket": 0,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "2小时",
+      "tags": [
+        "湖泊",
+        "散步",
+        "免费"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "唐代皇家园林遗址，现为市民休闲公园，湖光水色。",
+      "transport": "地铁4号线曲江池西站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_016",
+      "name": "兴庆宫公园",
+      "category": "休闲公园",
+      "location": "碑林区咸宁西路55号",
+      "coordinates": [
+        108.98,
+        34.25
+      ],
+      "open_time": "06:00-22:00",
+      "ticket": 0,
+      "recommend_season": "春季",
+      "visit_duration": "2小时",
+      "tags": [
+        "牡丹",
+        "湖泊",
+        "免费"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "唐代皇家园林，春季牡丹盛开，市民休闲好去处。",
+      "transport": "公交7路或地铁3号线咸宁路站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_017",
+      "name": "西安世博园",
+      "category": "休闲公园",
+      "location": "灞桥区世博大道",
+      "coordinates": [
+        109.06,
+        34.32
+      ],
+      "open_time": "09:00-18:00",
+      "ticket": 0,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "3小时",
+      "tags": [
+        "园艺",
+        "湖泊",
+        "免费"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "2011世园会旧址，现为大型公园，有长安塔等标志建筑。",
+      "transport": "地铁3号线香湖湾站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_018",
+      "name": "汉城湖公园",
+      "category": "休闲公园",
+      "location": "未央区北二环",
+      "coordinates": [
+        108.89572,
+        34.295388
+      ],
+      "open_time": "06:00-22:00",
+      "ticket": 0,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "2小时",
+      "tags": [
+        "汉文化",
+        "湖泊",
+        "免费"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "依托汉长安城护城河，可乘船游览，感受汉风。",
+      "transport": "公交50路或地铁2号线市图书馆站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_019",
+      "name": "秦岭野生动物园",
+      "category": "主题乐园",
+      "location": "长安区滦镇",
+      "coordinates": [
+        108.866715,
+        34.047456
+      ],
+      "open_time": "08:30-18:00",
+      "ticket": 100,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "4小时",
+      "tags": [
+        "动物",
+        "亲子",
+        "自然"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "大型野生动物园，可乘车观赏猛兽，适合家庭游。",
+      "transport": "公交游9路或自驾",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_020",
+      "name": "乐华欢乐世界",
+      "category": "主题乐园",
+      "location": "西咸新区泾河新城",
+      "coordinates": [
+        108.917425,
+        34.470417
+      ],
+      "open_time": "10:00-18:00",
+      "ticket": 230,
+      "recommend_season": "夏季",
+      "visit_duration": "全天",
+      "tags": [
+        "游乐场",
+        "刺激",
+        "亲子"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "大型主题乐园，有过山车等刺激项目，夏季有水上乐园。",
+      "transport": "地铁2号线至运动公园站转公交",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_021",
+      "name": "白鹿原影视城",
+      "category": "人文古迹",
+      "location": "蓝田县前卫镇",
+      "coordinates": [
+        109.278101,
+        34.076758
+      ],
+      "open_time": "09:00-18:00",
+      "ticket": 100,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "3小时",
+      "tags": [
+        "影视",
+        "民俗",
+        "文化"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "以《白鹿原》为背景的影视基地，体验关中民俗。",
+      "transport": "公交910路或自驾",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_022",
+      "name": "翠华山国家地质公园",
+      "category": "自然风光",
+      "location": "长安区太乙宫镇",
+      "coordinates": [
+        109.014946,
+        33.983563
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 65,
+      "recommend_season": "夏季、秋季",
+      "visit_duration": "4小时",
+      "tags": [
+        "山岳",
+        "湖泊",
+        "地质"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "秦岭北麓名山，有山崩奇观和天池，避暑胜地。",
+      "transport": "公交905路或自驾",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_023",
+      "name": "太平国家森林公园",
+      "category": "自然风光",
+      "location": "鄠邑区太平峪",
+      "coordinates": [
+        108.646867,
+        33.908984
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 60,
+      "recommend_season": "夏季",
+      "visit_duration": "5小时",
+      "tags": [
+        "瀑布",
+        "森林",
+        "避暑"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "以瀑布群著称，有彩虹瀑布，夏季清凉。",
+      "transport": "公交环山1号线或自驾",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_024",
+      "name": "朱雀国家森林公园",
+      "category": "自然风光",
+      "location": "鄠邑区涝峪",
+      "coordinates": [
+        108.599697,
+        33.810194
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 50,
+      "recommend_season": "夏季、秋季",
+      "visit_duration": "5小时",
+      "tags": [
+        "高山",
+        "草甸",
+        "森林"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "秦岭高山草甸，风景壮丽，适合徒步。",
+      "transport": "自驾或包车",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_025",
+      "name": "王顺山国家森林公园",
+      "category": "自然风光",
+      "location": "蓝田县蓝桥镇",
+      "coordinates": [
+        109.489282,
+        34.093858
+      ],
+      "open_time": "08:00-17:00",
+      "ticket": 40,
+      "recommend_season": "春季、秋季",
+      "visit_duration": "4小时",
+      "tags": [
+        "山岳",
+        "森林",
+        "徒步"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "有“陕西小黄山”之称，奇峰耸立，植被茂密。",
+      "transport": "公交蓝田至王顺山专线",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_026",
+      "name": "西安半坡博物馆",
+      "category": "博物馆",
+      "location": "灞桥区半坡路155号",
+      "coordinates": [
+        109.05,
+        34.28
+      ],
+      "open_time": "08:00-17:30",
+      "ticket": 65,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "史前",
+        "遗址",
+        "考古"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "新石器时代仰韶文化遗址，展示半坡人生活。",
+      "transport": "地铁1号线半坡站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_027",
+      "name": "西安事变纪念馆",
+      "category": "博物馆",
+      "location": "碑林区建国路69号",
+      "coordinates": [
+        108.96,
+        34.26
+      ],
+      "open_time": "09:00-17:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "1-2小时",
+      "tags": [
+        "近代史",
+        "红色",
+        "免费"
+      ],
+      "indoor_outdoor": "indoor",
+      "description": "张学良公馆旧址，西安事变重要纪念地。",
+      "transport": "公交7路或地铁4号线大差市站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_028",
+      "name": "大唐西市",
+      "category": "地标打卡",
+      "location": "莲湖区劳动南路",
+      "coordinates": [
+        108.91,
+        34.25
+      ],
+      "open_time": "10:00-22:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "商业",
+        "文化",
+        "丝绸之路"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "唐代丝绸之路起点，现为商业文化街区，有博物馆。",
+      "transport": "地铁3号线延平门站",
+      "source": "LLM生成+人工抽检",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_029",
+      "name": "西安城市运动公园",
+      "category": "休闲公园",
+      "location": "未央区凤城八路",
+      "coordinates": [
+        108.943445,
+        34.344373
+      ],
+      "open_time": "06:00-22:00",
+      "ticket": 0,
+      "recommend_season": "全年",
+      "visit_duration": "2小时",
+      "tags": [
+        "运动",
+        "健身",
+        "免费"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "大型体育主题公园，有湖有跑道，市民健身好去处。",
+      "transport": "地铁2号线行政中心站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    },
+    {
+      "id": "xa_att_030",
+      "name": "西安植物园",
+      "category": "休闲公园",
+      "location": "雁塔区花朝路",
+      "coordinates": [
+        109.0297,
+        34.209403
+      ],
+      "open_time": "08:00-18:00",
+      "ticket": 20,
+      "recommend_season": "春季",
+      "visit_duration": "2-3小时",
+      "tags": [
+        "植物",
+        "花卉",
+        "科普"
+      ],
+      "indoor_outdoor": "outdoor",
+      "description": "收集多种植物，春季郁金香、牡丹等花卉盛开。",
+      "transport": "公交701路或地铁4号线曲江池西站",
+      "source": "LLM生成+人工抽检+高德POI校正",
+      "verified_at": "2026-08-13"
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "verified",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验",
+    "verified_at": "2026-08-13"
+  }
+}

@@ -1,0 +1,21 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+
+# ===== 环境变量与密钥（绝不能提交）=====
+.env
+
+# ===== 前端 =====
+node_modules/
+dist/
+
+# ===== 向量数据库与本地数据 =====
+backend/data/
+
+# ===== 本地模型（体积大，不提交）=====
+backend/models/
+
+# ===== 编辑器 =====
+.idea/
+.vscode/
+*.log

@@ -1,0 +1,352 @@
+{
+  "city": "xian",
+  "city_name": "西安",
+  "foods": [
+    {
+      "id": "xa_food_001",
+      "name": "老孙家羊肉泡馍",
+      "category": "老字号",
+      "area": "碑林区",
+      "price_per_person": 50,
+      "recommend_time": "午餐",
+      "tags": [
+        "百年老店",
+        "羊肉泡馍",
+        "非遗"
+      ],
+      "description": "始创于1898年，西安最著名的羊肉泡馍老字号，汤鲜肉烂，馍筋道，体验掰馍乐趣。",
+      "signature_dish": "羊肉泡馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_002",
+      "name": "同盛祥牛羊肉泡馍",
+      "category": "老字号",
+      "area": "莲湖区",
+      "price_per_person": 45,
+      "recommend_time": "午餐",
+      "tags": [
+        "中华老字号",
+        "泡馍",
+        "清真"
+      ],
+      "description": "西安另一家泡馍名店，以料重味醇、肉烂汤浓著称，是品尝地道泡馍的绝佳选择。",
+      "signature_dish": "牛肉泡馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_003",
+      "name": "贾三灌汤包子",
+      "category": "小吃",
+      "area": "碑林区",
+      "price_per_person": 30,
+      "recommend_time": "早餐",
+      "tags": [
+        "灌汤包",
+        "回民街",
+        "皮薄馅大"
+      ],
+      "description": "回民街著名灌汤包店，包子皮薄如纸，汤汁鲜美，肉馅饱满，配以醋和辣子更佳。",
+      "signature_dish": "牛肉灌汤包",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_004",
+      "name": "春发生葫芦头",
+      "category": "老字号",
+      "area": "碑林区",
+      "price_per_person": 40,
+      "recommend_time": "午餐",
+      "tags": [
+        "葫芦头",
+        "猪肠",
+        "百年老店"
+      ],
+      "description": "始于1920年，以猪肠为主料的葫芦头泡馍，汤浓味醇，肥而不腻，是西安特色美食。",
+      "signature_dish": "葫芦头泡馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_005",
+      "name": "德发长饺子宴",
+      "category": "正餐",
+      "area": "碑林区",
+      "price_per_person": 120,
+      "recommend_time": "晚餐",
+      "tags": [
+        "饺子宴",
+        "中华老字号",
+        "花样繁多"
+      ],
+      "description": "以饺子宴闻名，制作精细，口味多样，造型精美，是体验西安饮食文化的经典选择。",
+      "signature_dish": "饺子宴",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_006",
+      "name": "西安饭庄",
+      "category": "正餐",
+      "area": "碑林区",
+      "price_per_person": 150,
+      "recommend_time": "晚餐",
+      "tags": [
+        "陕菜",
+        "老字号",
+        "官府菜"
+      ],
+      "description": "创建于1929年，以正宗陕菜著称，招牌菜葫芦鸡、温拌腰丝等，环境典雅，适合宴请。",
+      "signature_dish": "葫芦鸡",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_007",
+      "name": "樊记腊汁肉夹馍",
+      "category": "小吃",
+      "area": "碑林区",
+      "price_per_person": 15,
+      "recommend_time": "早餐",
+      "tags": [
+        "肉夹馍",
+        "腊汁肉",
+        "老字号"
+      ],
+      "description": "西安最著名的肉夹馍店之一，腊汁肉肥瘦相间，馍酥脆，咬一口满嘴流油，回味无穷。",
+      "signature_dish": "腊汁肉夹馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_008",
+      "name": "秦豫肉夹馍",
+      "category": "小吃",
+      "area": "碑林区",
+      "price_per_person": 12,
+      "recommend_time": "早餐",
+      "tags": [
+        "肉夹馍",
+        "本地人推荐",
+        "酥脆"
+      ],
+      "description": "本地人常去的肉夹馍店，馍现烤，肉香浓郁，肥而不腻，价格实惠，是早餐首选。",
+      "signature_dish": "优质肉夹馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_009",
+      "name": "定家小酥肉",
+      "category": "小吃",
+      "area": "莲湖区",
+      "price_per_person": 25,
+      "recommend_time": "午餐",
+      "tags": [
+        "小酥肉",
+        "回民街",
+        "清真"
+      ],
+      "description": "回民街人气小吃，牛肉裹粉炸后蒸制，肉质酥烂，汤汁浓郁，配米饭或泡馍皆宜。",
+      "signature_dish": "小酥肉",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_010",
+      "name": "盛志望麻酱凉皮",
+      "category": "小吃",
+      "area": "莲湖区",
+      "price_per_person": 10,
+      "recommend_time": "午餐",
+      "tags": [
+        "凉皮",
+        "麻酱",
+        "回民街"
+      ],
+      "description": "回民街著名凉皮店，凉皮筋道，麻酱香浓，辣子油香而不燥，夏日消暑佳品。",
+      "signature_dish": "麻酱凉皮",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_011",
+      "name": "魏家凉皮",
+      "category": "快餐",
+      "area": "雁塔区",
+      "price_per_person": 20,
+      "recommend_time": "午餐",
+      "tags": [
+        "连锁",
+        "凉皮",
+        "米皮"
+      ],
+      "description": "西安本土连锁快餐，凉皮口味多样，米皮软糯，搭配肉夹馍和冰峰，是快捷午餐选择。",
+      "signature_dish": "秘制凉皮",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_012",
+      "name": "biangbiang面",
+      "category": "面食",
+      "area": "碑林区",
+      "price_per_person": 20,
+      "recommend_time": "午餐",
+      "tags": [
+        "油泼面",
+        "裤带面",
+        "陕西特色"
+      ],
+      "description": "陕西特色面食，面条宽如裤带，油泼辣子香气扑鼻，口感筋道，是必尝美食。",
+      "signature_dish": "油泼biangbiang面",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_013",
+      "name": "柳巷面",
+      "category": "面食",
+      "area": "新城区",
+      "price_per_person": 18,
+      "recommend_time": "午餐",
+      "tags": [
+        "牛肉面",
+        "老店",
+        "本地人"
+      ],
+      "description": "经营多年的牛肉面馆，面条手工制作，牛肉块大，汤味浓郁，是西安人的心头好。",
+      "signature_dish": "牛肉面",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_014",
+      "name": "马洪小炒泡馍",
+      "category": "小吃",
+      "area": "莲湖区",
+      "price_per_person": 35,
+      "recommend_time": "午餐",
+      "tags": [
+        "小炒泡馍",
+        "清真",
+        "酸辣"
+      ],
+      "description": "回民街特色小炒泡馍，与普通泡馍不同，加入番茄、青菜等炒制，酸辣开胃，风味独特。",
+      "signature_dish": "小炒泡馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_015",
+      "name": "子午路张记肉夹馍",
+      "category": "小吃",
+      "area": "雁塔区",
+      "price_per_person": 15,
+      "recommend_time": "早餐",
+      "tags": [
+        "肉夹馍",
+        "连锁",
+        "酥脆"
+      ],
+      "description": "分店众多，肉夹馍馍酥肉香，肥瘦可选，搭配粉丝汤或醪糟，是经典早餐组合。",
+      "signature_dish": "肉夹馍",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_016",
+      "name": "醉长安",
+      "category": "正餐",
+      "area": "碑林区",
+      "price_per_person": 100,
+      "recommend_time": "晚餐",
+      "tags": [
+        "陕菜",
+        "创意菜",
+        "网红店"
+      ],
+      "description": "新派陕菜餐厅，环境古色古香，菜品精致，招牌葫芦鸡、晾衣毛肚等，适合朋友聚餐。",
+      "signature_dish": "葫芦鸡",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_017",
+      "name": "长安大牌档",
+      "category": "正餐",
+      "area": "雁塔区",
+      "price_per_person": 80,
+      "recommend_time": "晚餐",
+      "tags": [
+        "陕菜",
+        "民俗",
+        "表演"
+      ],
+      "description": "以陕西民俗为主题的餐厅，装修复古，有皮影戏表演，菜品丰富，如毛笔酥、妃子笑等。",
+      "signature_dish": "毛笔酥",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_018",
+      "name": "冰峰汽水",
+      "category": "饮品",
+      "area": "全市",
+      "price_per_person": 3,
+      "recommend_time": "午餐",
+      "tags": [
+        "本土饮料",
+        "橙味",
+        "怀旧"
+      ],
+      "description": "西安本土橙味汽水，已有70多年历史，是搭配凉皮、肉夹馍的经典饮品，冰镇更佳。",
+      "signature_dish": "冰峰汽水",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_019",
+      "name": "陕拾叁",
+      "category": "甜品",
+      "area": "碑林区",
+      "price_per_person": 30,
+      "recommend_time": "下午茶",
+      "tags": [
+        "冰淇淋",
+        "陕西特色",
+        "创意"
+      ],
+      "description": "以陕西特色食材制作冰淇淋，如油泼辣子、醪糟、临潼石榴等口味，新奇有趣。",
+      "signature_dish": "油泼辣子冰淇淋",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    },
+    {
+      "id": "xa_food_020",
+      "name": "老兰家",
+      "category": "正餐",
+      "area": "莲湖区",
+      "price_per_person": 60,
+      "recommend_time": "晚餐",
+      "tags": [
+        "清真",
+        "烤肉",
+        "老店"
+      ],
+      "description": "回民街老牌清真餐厅，烤肉串、烤羊排、涮牛肚等，烟火气十足，适合夜宵聚餐。",
+      "signature_dish": "烤羊肉串",
+      "source": "LLM生成+人工抽检",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending",
+    "source": "LLM生成+人工抽检，坐标待高德POI校验"
+  }
+}

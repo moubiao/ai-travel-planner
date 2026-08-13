@@ -1,0 +1,236 @@
+{
+  "city": "chengdu",
+  "city_name": "成都",
+  "hotels": [
+    {
+      "id": "cd_hotel_001",
+      "name": "全季酒店（成都春熙路太古里店）",
+      "area": "锦江区春熙路",
+      "price_per_night": 350,
+      "stars": 3,
+      "tags": [
+        "中端",
+        "商圈",
+        "交通便利"
+      ],
+      "description": "位于春熙路商圈，步行可达太古里、IFS，地铁2/3号线交汇，购物美食一站满足，性价比高。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_002",
+      "name": "亚朵酒店（成都太古里店）",
+      "area": "锦江区太古里",
+      "price_per_night": 450,
+      "stars": 4,
+      "tags": [
+        "中高端",
+        "商圈",
+        "品质"
+      ],
+      "description": "设计感十足的亚朵品牌，房间配有阅读空间，步行5分钟到太古里，周边餐厅咖啡店密集。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_003",
+      "name": "如家商旅酒店（宽窄巷子店）",
+      "area": "青羊区宽窄巷子",
+      "price_per_night": 250,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "景区旁",
+        "交通便利"
+      ],
+      "description": "步行即达宽窄巷子、人民公园，地铁4号线通惠门站附近，逛景区和喝盖碗茶都方便。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_004",
+      "name": "维也纳国际酒店（成都天府广场店）",
+      "area": "青羊区天府广场",
+      "price_per_night": 300,
+      "stars": 4,
+      "tags": [
+        "中端",
+        "市中心",
+        "地标"
+      ],
+      "description": "位于城市中心天府广场，地铁1/2号线交汇，去成都博物馆、人民公园步行可达。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_005",
+      "name": "汉庭酒店（成都武侯祠店）",
+      "area": "武侯区武侯祠大街",
+      "price_per_night": 200,
+      "stars": 2,
+      "tags": [
+        "经济",
+        "景区旁",
+        "实惠"
+      ],
+      "description": "紧邻武侯祠、锦里古街，步行10分钟进景区，价格实惠，适合预算有限的游客。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_006",
+      "name": "锦江之星（成都文殊院店）",
+      "area": "青羊区文殊院街",
+      "price_per_night": 220,
+      "stars": 2,
+      "tags": [
+        "经济",
+        "禅意",
+        "小吃"
+      ],
+      "description": "毗邻千年古刹文殊院，周边宫廷糕点铺、小吃众多，体验老成都生活氛围。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_007",
+      "name": "成都明宇尚雅饭店",
+      "area": "锦江区滨江东路",
+      "price_per_night": 550,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "江景",
+        "商务"
+      ],
+      "description": "五星级酒店，临锦江而居，部分房间可看江景，含自助早餐，适合追求舒适体验的旅客。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_008",
+      "name": "熊猫基地周边民宿（熊猫大道）",
+      "area": "成华区熊猫大道",
+      "price_per_night": 280,
+      "stars": 3,
+      "tags": [
+        "民宿",
+        "亲子",
+        "近景区"
+      ],
+      "description": "靠近大熊猫繁育研究基地的精品民宿，适合带小朋友的家庭，早上可赶在熊猫最活跃时段入园。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_009",
+      "name": "青城山六善酒店",
+      "area": "都江堰市青城山镇",
+      "price_per_night": 1500,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "度假",
+        "禅意"
+      ],
+      "description": "顶级度假酒店，川西庭院风格，近青城山景区，含温泉与精致餐饮，适合慢度假日。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_010",
+      "name": "都江堰城区快捷酒店（古城区店）",
+      "area": "都江堰市古城区",
+      "price_per_night": 260,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "景区旁",
+        "实惠"
+      ],
+      "description": "位于都江堰古城内，步行可达都江堰景区大门，周边南桥夜市美食丰富。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_011",
+      "name": "成都东郊记忆亚朵酒店",
+      "area": "成华区东郊记忆",
+      "price_per_night": 380,
+      "stars": 4,
+      "tags": [
+        "中高端",
+        "艺术园区",
+        "夜生活"
+      ],
+      "description": "毗邻东郊记忆文创园区，工业风设计，周边Livehouse与咖啡馆多，适合年轻人。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_012",
+      "name": "锦里客栈（武侯祠店）",
+      "area": "武侯区锦里",
+      "price_per_night": 320,
+      "stars": 3,
+      "tags": [
+        "特色客栈",
+        "景区内",
+        "古风"
+      ],
+      "description": "位于锦里古街内的川西风格客栈，推窗见古街红灯笼，夜晚逛锦里夜市零距离。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_013",
+      "name": "成都环球中心天堂洲际大饭店",
+      "area": "高新区天府大道北段",
+      "price_per_night": 800,
+      "stars": 5,
+      "tags": [
+        "高端",
+        "室内海洋乐园",
+        "亲子"
+      ],
+      "description": "世界最大单体建筑内的洲际酒店，自带室内海洋乐园，家庭度假首选，含环球中心购物餐饮。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_014",
+      "name": "成都东站智选假日酒店",
+      "area": "成华区成都东站",
+      "price_per_night": 280,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "高铁站",
+        "中转"
+      ],
+      "description": "紧邻成都东站高铁枢纽，适合高铁出行或作为中转站住宿，交通便捷。",
+      "source": "人工整理",
+      "verified_at": ""
+    },
+    {
+      "id": "cd_hotel_015",
+      "name": "天府广场城市精选酒店（春熙路店）",
+      "area": "锦江区春熙路",
+      "price_per_night": 230,
+      "stars": 3,
+      "tags": [
+        "经济",
+        "商圈",
+        "学生党"
+      ],
+      "description": "春熙路商圈高性价比连锁酒店，近地铁站，周边小吃夜市丰富，适合年轻旅客。",
+      "source": "人工整理",
+      "verified_at": ""
+    }
+  ],
+  "meta": {
+    "version": "1.1",
+    "updated_at": "2026-08-13",
+    "verify_status": "pending"
+  }
+}
