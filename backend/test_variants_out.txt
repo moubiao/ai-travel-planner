@@ -1,78 +1,0 @@
-D:\Anaconda3\Lib\site-packages\numpy\__init__.py:109: UserWarning: mkl-service package failed to import, therefore Intel(R) MKL initialization ensuring its correct out-of-the box operation under condition when Gnu OpenMP had already been loaded by Python process is not assured. Please install mkl-service package, see http://github.com/IntelPython/mkl-service
-  from . import _distributor_init
-2026-08-12 21:29:06,585 [INFO] faiss.loader: Loading faiss with AVX2 support.
-2026-08-12 21:29:06,585 [INFO] faiss.loader: Could not load library with AVX2 support due to:
-ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
-2026-08-12 21:29:06,585 [INFO] faiss.loader: Loading faiss.
-2026-08-12 21:29:06,601 [INFO] faiss.loader: Successfully loaded faiss.
-2026-08-12 21:29:14,661 [INFO] numexpr.utils: Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
-2026-08-12 21:29:14,661 [INFO] numexpr.utils: NumExpr defaulting to 16 threads.
-2026-08-12 21:29:19,081 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:19,104 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:20,154 [INFO] sentence_transformers.base.model: No device provided, using cuda:0
-2026-08-12 21:29:20,155 [INFO] sentence_transformers.base.model: Loading SentenceTransformer model from D:\QoderWork\ai-travel-planner\backend\models\bge-small-zh-v1.5.
-2026-08-12 21:29:20,185 [INFO] sentence_transformers.base.model: No device provided, using cuda:0
-2026-08-12 21:29:20,186 [INFO] sentence_transformers.base.model: Loading SentenceTransformer model from D:\QoderWork\ai-travel-planner\backend\models\bge-small-zh-v1.5.
-=== 测试: 对比方案生成（variants=true）===
-Loading weights:   0%|          | 0/71 [00:00<?, ?it/s]
-Loading weights:   0%|          | 0/71 [00:00<?, ?it/s][ALoading weights: 100%|██████████| 71/71 [00:00<00:00, 4124.48it/s]
-Loading weights: 100%|██████████| 71/71 [00:00<00:00, 3324.98it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00,  5.16it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  5.15it/s]
-
-Batches: 100%|██████████| 1/1 [00:00<00:00,  5.18it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00,  5.17it/s]
-2026-08-12 21:29:20,686 [INFO] sentence_transformers.base.model: No device provided, using cuda:0
-2026-08-12 21:29:20,686 [INFO] sentence_transformers.base.model: No modules.json found for D:\QoderWork\ai-travel-planner\backend\models\bge-reranker-base, initializing a new CrossEncoder model.
-2026-08-12 21:29:20,686 [INFO] sentence_transformers.base.model: No device provided, using cuda:0
-2026-08-12 21:29:20,687 [INFO] sentence_transformers.base.model: No modules.json found for D:\QoderWork\ai-travel-planner\backend\models\bge-reranker-base, initializing a new CrossEncoder model.
-Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]
-Loading weights:   0%|          | 0/201 [00:00<?, ?it/s][ALoading weights: 100%|██████████| 201/201 [00:00<00:00, 4200.24it/s]
-Loading weights: 100%|██████████| 201/201 [00:00<00:00, 3645.38it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00,  4.03it/s]Batches: 100%|██████████| 1/1 [00:00<00:00,  4.03it/s]
-
-Batches: 100%|██████████| 1/1 [00:00<00:00,  4.01it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00,  4.01it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00, 171.37it/s]
-Batches: 100%|██████████| 1/1 [00:00<00:00, 185.79it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00, 12.94it/s]
-Batches: 100%|██████████| 1/1 [00:00<00:00, 12.90it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00, 176.00it/s]
-Batches: 100%|██████████| 1/1 [00:00<00:00, 209.60it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s][ABatches: 100%|██████████| 1/1 [00:00<00:00, 76.52it/s]
-Batches: 100%|██████████| 1/1 [00:00<00:00, 14.55it/s]
-2026-08-12 21:29:25,758 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,765 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,768 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,772 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,777 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,789 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,827 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:25,843 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:29,049 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:29,766 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:38,500 [INFO] httpx2: HTTP Request: POST http://testserver/api/plans/generate "HTTP/1.1 200 OK"
-2026-08-12 21:29:38,621 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-变体: 性价比版 / 舒适版
-  [性价比版] 预算:¥4000 | 天数:3 | 引用:13条 | 酒店:维也纳国际酒店（成都天府广场店）
-  [舒适版] 预算:¥6000 | 天数:3 | 引用:12条 | 酒店:维也纳国际酒店（成都天府广场店）
-  差异验证: 预算 4000 vs 6000，酒店「维也纳国际酒店（成都天府广场店）」vs「维也纳国际酒店（成都天府广场店）」
-  坐标验证: 6 个景点引用均带坐标 ✓
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.00it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 11.20it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 331.57it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 114.35it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 344.36it/s]
-Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 114.32it/s]
-2026-08-12 21:29:40,692 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:40,722 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:40,730 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:40,768 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:44,810 [INFO] httpx2: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
-2026-08-12 21:29:53,073 [INFO] httpx2: HTTP Request: POST http://testserver/api/plans/generate "HTTP/1.1 200 OK"
-  单方案模式回归正常 ✓
-
-✅ 对比方案生成测试全部通过

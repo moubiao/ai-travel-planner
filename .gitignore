@@ -19,3 +19,7 @@ backend/models/
 .idea/
 .vscode/
 *.log
+
+# ===== 测试输出 =====
+backend/test_*_out.txt
+backend/test_variants_out.txt
